@@ -1,0 +1,161 @@
+{
+  "trained_at": "2026-10-11T16:37:05.941065+00:00",
+  "n_rows": 2212,
+  "n_races": 109,
+  "sigma": 4.545688649061187,
+  "model": {
+    "races": 79,
+    "winner_hit_rate": 0.6962025316455697,
+    "podium_overlap_avg": 2.0759493670886076,
+    "position_mae": 3.253873175458785,
+    "spearman_avg": 0.6818518127008119
+  },
+  "baseline_grid": {
+    "races": 79,
+    "winner_hit_rate": 0.5949367088607594,
+    "podium_overlap_avg": 2.0,
+    "position_mae": 3.3292713948276913,
+    "spearman_avg": 0.6595998928125335
+  },
+  "wet_conditional_oracle": {
+    "races": 79,
+    "winner_hit_rate": 0.7215189873417721,
+    "podium_overlap_avg": 2.0759493670886076,
+    "position_mae": 3.2817212767246082,
+    "spearman_avg": 0.6759575302894248
+  },
+  "feature_importance": [
+    [
+      "quali_gap_to_teammate",
+      322
+    ],
+    [
+      "wet_delta",
+      311
+    ],
+    [
+      "quali_gap_to_pole_ms",
+      291
+    ],
+    [
+      "pit_stop_delta_5",
+      263
+    ],
+    [
+      "quali_pos",
+      242
+    ],
+    [
+      "consistency_5",
+      236
+    ],
+    [
+      "pace_delta_5",
+      226
+    ],
+    [
+      "team_track_finish_avg",
+      221
+    ],
+    [
+      "track_gain_avg",
+      219
+    ],
+    [
+      "quali_surprise",
+      218
+    ],
+    [
+      "driver_overtakes_10",
+      201
+    ],
+    [
+      "form_points_5",
+      199
+    ],
+    [
+      "lap1_gain_5",
+      188
+    ],
+    [
+      "season_points",
+      182
+    ],
+    [
+      "team_season_points",
+      177
+    ],
+    [
+      "form_gain_5",
+      174
+    ],
+    [
+      "track_finish_avg",
+      174
+    ],
+    [
+      "track_overtakes_avg",
+      173
+    ],
+    [
+      "pit_gain_5",
+      171
+    ],
+    [
+      "form_quali_5",
+      170
+    ],
+    [
+      "deg_slope_5",
+      168
+    ],
+    [
+      "team_form_finish_5",
+      164
+    ],
+    [
+      "stint1_pace_5",
+      160
+    ],
+    [
+      "team_dnf_rate",
+      130
+    ],
+    [
+      "form_finish_3",
+      120
+    ],
+    [
+      "n_races",
+      112
+    ],
+    [
+      "form_finish_5",
+      109
+    ],
+    [
+      "season_rank",
+      109
+    ],
+    [
+      "track_sc_rate",
+      50
+    ],
+    [
+      "undercut_rate_10",
+      49
+    ],
+    [
+      "driver_dnf_rate",
+      41
+    ],
+    [
+      "track_races",
+      22
+    ],
+    [
+      "is_wet",
+      5
+    ]
+  ]
+}

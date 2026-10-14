@@ -1,0 +1,131 @@
+{
+  "blend_w": 0.55,
+  "sigma": 4.513008296764342,
+  "n_races": 71,
+  "n_features": 34,
+  "model_path": "/Users/yahirbahena/GitHub/F1 Predicitor Project/backend/data/models/model.joblib",
+  "overall": {
+    "n_races": 71,
+    "blend_w": 0.55,
+    "winner_hit_rate": 0.647887323943662,
+    "winner_hits": "46/71",
+    "top3_hit_rate": 0.9577464788732394,
+    "podium_overlap_avg": 2.056338028169014,
+    "position_mae": 3.281252105937058,
+    "spearman_avg": 0.6793268033413713,
+    "dnf_adjusted_winner_hit_rate": 0.6764705882352942,
+    "dnf_adjusted_winner_hits": "46/68",
+    "avg_predicted_winner_prob": 0.3005169014084507,
+    "avg_actual_winner_prob": 0.26349436619718314
+  },
+  "breakdowns": {
+    "by_season": [
+      {
+        "group": "2023",
+        "n": 14,
+        "winner_hit_rate": 0.8571428571428571,
+        "top3_hit_rate": 1.0,
+        "podium_overlap": 1.9285714285714286,
+        "mae": 3.492857142857143,
+        "spearman": 0.6327604726100965,
+        "hits": 12
+      },
+      {
+        "group": "2024",
+        "n": 24,
+        "winner_hit_rate": 0.5,
+        "top3_hit_rate": 0.875,
+        "podium_overlap": 2.0,
+        "mae": 2.9098684210526318,
+        "spearman": 0.7517021720969089,
+        "hits": 12
+      },
+      {
+        "group": "2025",
+        "n": 24,
+        "winner_hit_rate": 0.6666666666666666,
+        "top3_hit_rate": 1.0,
+        "podium_overlap": 2.3333333333333335,
+        "mae": 3.2861842105263164,
+        "spearman": 0.660766499582289,
+        "hits": 16
+      },
+      {
+        "group": "2026",
+        "n": 9,
+        "winner_hit_rate": 0.6666666666666666,
+        "top3_hit_rate": 1.0,
+        "podium_overlap": 1.6666666666666667,
+        "mae": 3.929292929292929,
+        "spearman": 0.6082564778216953,
+        "hits": 6
+      }
+    ],
+    "wet_vs_dry": [
+      {
+        "group": "wet",
+        "n": 16,
+        "winner_hit_rate": 0.5,
+        "top3_hit_rate": 0.875,
+        "podium_overlap": 1.875,
+        "mae": 3.317045454545455,
+        "spearman": 0.6764948438289399,
+        "hits": 8
+      },
+      {
+        "group": "dry",
+        "n": 55,
+        "winner_hit_rate": 0.6909090909090909,
+        "top3_hit_rate": 0.9818181818181818,
+        "podium_overlap": 2.109090909090909,
+        "mae": 3.270839495432797,
+        "spearman": 0.6801506461086242,
+        "hits": 38
+      }
+    ],
+    "winner_pole_vs_not": [
+      {
+        "group": "pole",
+        "n": 41,
+        "winner_hit_rate": 0.926829268292683,
+        "top3_hit_rate": 1.0,
+        "podium_overlap": 2.073170731707317,
+        "mae": 3.2027774536118567,
+        "spearman": 0.6885602853175548,
+        "hits": 38
+      },
+      {
+        "group": "not_pole",
+        "n": 30,
+        "winner_hit_rate": 0.26666666666666666,
+        "top3_hit_rate": 0.9,
+        "podium_overlap": 2.033333333333333,
+        "mae": 3.3885007974481662,
+        "spearman": 0.6667077113072536,
+        "hits": 8
+      }
+    ],
+    "winner_grid_p3plus": [
+      {
+        "group": "grid>=3",
+        "n": 13,
+        "winner_hit_rate": 0.15384615384615385,
+        "top3_hit_rate": 0.8461538461538461,
+        "podium_overlap": 1.9230769230769231,
+        "mae": 3.2230769230769236,
+        "spearman": 0.6777327935222671,
+        "hits": 2
+      },
+      {
+        "group": "grid<=2",
+        "n": 58,
+        "winner_hit_rate": 0.7586206896551724,
+        "top3_hit_rate": 0.9827586206896551,
+        "podium_overlap": 2.086206896551724,
+        "mae": 3.294291371060881,
+        "spearman": 0.6796840814042739,
+        "hits": 44
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_comment": "Manual grid-place penalties, keyed by <season>-<round>. Applied ONLY to the starting-grid prior at prediction time for that exact race; never touches training data, the model, or any other race. Remove an entry once its race is over (harmless to leave). Positive = places dropped.",
+  "2026-11": {
+    "HAM": 3,
+    "ANT": 3
+  }
+}

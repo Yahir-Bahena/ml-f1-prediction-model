@@ -1,0 +1,205 @@
+@import 'tailwindcss';
+
+/* Palette: editorial dark — the landing's language carried site-wide.
+   Near-black surface (= night), cards a hair lighter, hairline borders, warm
+   cream ink with two solid-hex dimmer steps, rust accent. Every page is built
+   from these semantic utilities (bg-card, text-ink2, border-line…), so this
+   block alone themes the app. Contrast on surface #0d0d0c: ink 17.4, ink2 8.9,
+   ink3 5.5, accent 5.3 (all ≥4.5 for small text; ink3/accent stay ≥4.5 on
+   card2 as well). Keep src/lib/theme.ts in sync when changing these. */
+@theme {
+  --color-surface: #0d0d0c;
+  --color-card: #151514;
+  --color-card2: #1e1e1c;
+  --color-line: #2b2b29;
+  --color-ink: #fdf0e6;
+  --color-ink2: #bab0a9;
+  --color-ink3: #918a84;
+  /* accent = bright orange, legible as text on dark (~7:1 on surface);
+     accent2 = lighter orange for bar/gradient ends. Use bg-rust (+ night text)
+     for solid fills/pills. */
+  --color-accent: #ff6a13;
+  --color-accent2: #ff9248;
+  /* editorial tokens (landing + shared chrome) */
+  --color-cream: #fdf0e6;
+  --color-rust: #ff6a13;
+  --color-night: #0d0d0c;
+  --font-display: 'Anton', 'Oswald', Impact, 'Arial Narrow', sans-serif;
+  --font-sans:
+    'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+/* Sticky nav height on app routes; pages size full-height sections with
+   min-h-[calc(100svh-var(--nav-h))]. */
+:root {
+  --nav-h: 3.5rem;
+  color-scheme: dark;
+}
+
+html {
+  background: var(--color-night);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background: var(--color-night);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: rgba(255, 106, 19, 0.55);
+  color: var(--color-cream);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* fill-mode backwards (not both): after the animation ends the element
+   returns to its natural, transform-free style — a retained transform creates
+   a stacking context that lets sibling cards paint over tooltips */
+.rise {
+  animation: rise 0.45s ease-out backwards;
+}
+
+/* --- landing page --- */
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* staggered via inline animation-delay; backwards keeps the pre-delay state
+   hidden without retaining a transform after the animation completes */
+.fade-up {
+  animation: fade-up 0.65s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+
+/* Giant hero word. The box height is fixed by --word-max (so swapping the
+   placeholder for the real location never shifts the layout); the glyph size
+   shrinks with character count (--chars, set inline) so long names like
+   SILVERSTONE still fit on one line. Anton caps average ~0.4–0.45em wide, so
+   155vw / chars ≈ 70% of the viewport (180vw ≈ 80–88% on phones; wide caps like M run higher). */
+.hero-word-box {
+  --word-max: min(36svh, 30vw);
+  height: calc(var(--word-max) * 0.92);
+}
+
+.hero-word {
+  font-size: min(var(--word-max), calc(180vw / var(--chars)));
+  line-height: 0.92;
+}
+
+@media (min-width: 768px) {
+  .hero-word {
+    font-size: min(var(--word-max), calc(155vw / var(--chars)));
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.scale-in {
+  animation: scale-in 0.9s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+
+/* bottom-centre scroll cue: a hairline with a slow travelling highlight */
+@keyframes cue {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+.scroll-cue::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent, var(--color-cream), transparent);
+  animation: cue 2.4s ease-in-out infinite;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    /* track holds two copies of the list; -50% loops seamlessly */
+    transform: translateX(-50%);
+  }
+}
+
+.marquee-track {
+  animation: marquee 30s linear infinite;
+  will-change: transform;
+}
+
+@keyframes bar-fill {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.bar-fill {
+  transform-origin: left;
+  animation: bar-fill 1.1s 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.55);
+  }
+  60% {
+    box-shadow: 0 0 0 5px rgba(34, 197, 94, 0);
+  }
+}
+
+.pulse-dot {
+  animation: pulse-dot 2.2s ease-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise,
+  .fade-up,
+  .scale-in,
+  .bar-fill,
+  .pulse-dot {
+    animation-duration: 0.01ms;
+    animation-delay: 0ms;
+    animation-iteration-count: 1;
+  }
+  .marquee-track,
+  .scroll-cue::after {
+    animation: none;
+  }
+}

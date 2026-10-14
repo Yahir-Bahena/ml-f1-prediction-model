@@ -1,0 +1,2037 @@
+season,round,location,sprint,street,wet_race,session_used,driver,confidence
+2022,1,Sakhir,False,False,False,Practice 2,LEC,0
+2022,1,Sakhir,False,False,False,Practice 2,SAI,1
+2022,1,Sakhir,False,False,False,Practice 2,HAM,2
+2022,1,Sakhir,False,False,False,Practice 2,RUS,2
+2022,1,Sakhir,False,False,False,Practice 2,MAG,1
+2022,1,Sakhir,False,False,False,Practice 2,BOT,2
+2022,1,Sakhir,False,False,False,Practice 2,OCO,2
+2022,1,Sakhir,False,False,False,Practice 2,TSU,2
+2022,1,Sakhir,False,False,False,Practice 2,ALO,2
+2022,1,Sakhir,False,False,False,Practice 2,ZHO,3
+2022,1,Sakhir,False,False,False,Practice 2,MSC,2
+2022,1,Sakhir,False,False,False,Practice 2,STR,2
+2022,1,Sakhir,False,False,False,Practice 2,ALB,1
+2022,1,Sakhir,False,False,False,Practice 2,RIC,0
+2022,1,Sakhir,False,False,False,Practice 2,NOR,2
+2022,1,Sakhir,False,False,False,Practice 2,LAT,2
+2022,1,Sakhir,False,False,False,Practice 2,HUL,2
+2022,1,Sakhir,False,False,False,Practice 2,PER,2
+2022,1,Sakhir,False,False,False,Practice 2,VER,2
+2022,1,Sakhir,False,False,False,Practice 2,GAS,1
+2022,2,Jeddah,False,True,False,Practice 2,VER,1
+2022,2,Jeddah,False,True,False,Practice 2,LEC,0
+2022,2,Jeddah,False,True,False,Practice 2,SAI,0
+2022,2,Jeddah,False,True,False,Practice 2,PER,1
+2022,2,Jeddah,False,True,False,Practice 2,RUS,2
+2022,2,Jeddah,False,True,False,Practice 2,OCO,2
+2022,2,Jeddah,False,True,False,Practice 2,NOR,2
+2022,2,Jeddah,False,True,False,Practice 2,GAS,1
+2022,2,Jeddah,False,True,False,Practice 2,MAG,1
+2022,2,Jeddah,False,True,False,Practice 2,HAM,2
+2022,2,Jeddah,False,True,False,Practice 2,ZHO,2
+2022,2,Jeddah,False,True,False,Practice 2,HUL,3
+2022,2,Jeddah,False,True,False,Practice 2,STR,2
+2022,2,Jeddah,False,True,False,Practice 2,ALB,2
+2022,2,Jeddah,False,True,False,Practice 2,BOT,0
+2022,2,Jeddah,False,True,False,Practice 2,ALO,2
+2022,2,Jeddah,False,True,False,Practice 2,RIC,2
+2022,2,Jeddah,False,True,False,Practice 2,LAT,2
+2022,2,Jeddah,False,True,False,Practice 2,TSU,2
+2022,2,Jeddah,False,True,False,Practice 2,MSC,1
+2022,3,Melbourne,False,False,False,Practice 2,LEC,1
+2022,3,Melbourne,False,False,False,Practice 2,PER,1
+2022,3,Melbourne,False,False,False,Practice 2,RUS,0
+2022,3,Melbourne,False,False,False,Practice 2,HAM,0
+2022,3,Melbourne,False,False,False,Practice 2,NOR,2
+2022,3,Melbourne,False,False,False,Practice 2,RIC,1
+2022,3,Melbourne,False,False,False,Practice 2,OCO,1
+2022,3,Melbourne,False,False,False,Practice 2,BOT,0
+2022,3,Melbourne,False,False,False,Practice 2,GAS,1
+2022,3,Melbourne,False,False,False,Practice 2,ALB,1
+2022,3,Melbourne,False,False,False,Practice 2,ZHO,1
+2022,3,Melbourne,False,False,False,Practice 2,STR,2
+2022,3,Melbourne,False,False,False,Practice 2,MSC,1
+2022,3,Melbourne,False,False,False,Practice 2,MAG,1
+2022,3,Melbourne,False,False,False,Practice 2,TSU,2
+2022,3,Melbourne,False,False,False,Practice 2,LAT,1
+2022,3,Melbourne,False,False,False,Practice 2,ALO,1
+2022,3,Melbourne,False,False,False,Practice 2,VER,1
+2022,3,Melbourne,False,False,False,Practice 2,VET,0
+2022,3,Melbourne,False,False,False,Practice 2,SAI,1
+2022,4,Imola,True,False,False,Practice 1,VER,1
+2022,4,Imola,True,False,False,Practice 1,PER,0
+2022,4,Imola,True,False,False,Practice 1,NOR,0
+2022,4,Imola,True,False,False,Practice 1,RUS,0
+2022,4,Imola,True,False,False,Practice 1,BOT,0
+2022,4,Imola,True,False,False,Practice 1,LEC,0
+2022,4,Imola,True,False,False,Practice 1,TSU,0
+2022,4,Imola,True,False,False,Practice 1,VET,1
+2022,4,Imola,True,False,False,Practice 1,MAG,1
+2022,4,Imola,True,False,False,Practice 1,STR,1
+2022,4,Imola,True,False,False,Practice 1,ALB,0
+2022,4,Imola,True,False,False,Practice 1,GAS,0
+2022,4,Imola,True,False,False,Practice 1,HAM,0
+2022,4,Imola,True,False,False,Practice 1,OCO,1
+2022,4,Imola,True,False,False,Practice 1,ZHO,0
+2022,4,Imola,True,False,False,Practice 1,LAT,0
+2022,4,Imola,True,False,False,Practice 1,MSC,1
+2022,4,Imola,True,False,False,Practice 1,RIC,0
+2022,4,Imola,True,False,False,Practice 1,ALO,0
+2022,4,Imola,True,False,False,Practice 1,SAI,0
+2022,5,Miami,False,True,True,Practice 2,VER,0
+2022,5,Miami,False,True,True,Practice 2,LEC,1
+2022,5,Miami,False,True,True,Practice 2,SAI,0
+2022,5,Miami,False,True,True,Practice 2,PER,0
+2022,5,Miami,False,True,True,Practice 2,RUS,1
+2022,5,Miami,False,True,True,Practice 2,HAM,0
+2022,5,Miami,False,True,True,Practice 2,BOT,0
+2022,5,Miami,False,True,True,Practice 2,OCO,1
+2022,5,Miami,False,True,True,Practice 2,ALB,0
+2022,5,Miami,False,True,True,Practice 2,STR,1
+2022,5,Miami,False,True,True,Practice 2,ALO,0
+2022,5,Miami,False,True,True,Practice 2,TSU,0
+2022,5,Miami,False,True,True,Practice 2,RIC,0
+2022,5,Miami,False,True,True,Practice 2,LAT,0
+2022,5,Miami,False,True,True,Practice 2,MSC,1
+2022,5,Miami,False,True,True,Practice 2,MAG,0
+2022,5,Miami,False,True,True,Practice 2,VET,0
+2022,5,Miami,False,True,True,Practice 2,GAS,1
+2022,5,Miami,False,True,True,Practice 2,NOR,0
+2022,5,Miami,False,True,True,Practice 2,ZHO,1
+2022,6,Barcelona,False,False,False,Practice 2,VER,2
+2022,6,Barcelona,False,False,False,Practice 2,PER,2
+2022,6,Barcelona,False,False,False,Practice 2,RUS,2
+2022,6,Barcelona,False,False,False,Practice 2,SAI,2
+2022,6,Barcelona,False,False,False,Practice 2,HAM,2
+2022,6,Barcelona,False,False,False,Practice 2,BOT,0
+2022,6,Barcelona,False,False,False,Practice 2,OCO,2
+2022,6,Barcelona,False,False,False,Practice 2,NOR,0
+2022,6,Barcelona,False,False,False,Practice 2,ALO,2
+2022,6,Barcelona,False,False,False,Practice 2,TSU,2
+2022,6,Barcelona,False,False,False,Practice 2,VET,3
+2022,6,Barcelona,False,False,False,Practice 2,RIC,1
+2022,6,Barcelona,False,False,False,Practice 2,GAS,2
+2022,6,Barcelona,False,False,False,Practice 2,MSC,2
+2022,6,Barcelona,False,False,False,Practice 2,STR,1
+2022,6,Barcelona,False,False,False,Practice 2,LAT,2
+2022,6,Barcelona,False,False,False,Practice 2,MAG,1
+2022,6,Barcelona,False,False,False,Practice 2,ALB,2
+2022,6,Barcelona,False,False,False,Practice 2,ZHO,2
+2022,6,Barcelona,False,False,False,Practice 2,LEC,2
+2022,7,Monaco,False,True,True,Practice 2,PER,0
+2022,7,Monaco,False,True,True,Practice 2,SAI,0
+2022,7,Monaco,False,True,True,Practice 2,VER,1
+2022,7,Monaco,False,True,True,Practice 2,LEC,1
+2022,7,Monaco,False,True,True,Practice 2,RUS,1
+2022,7,Monaco,False,True,True,Practice 2,NOR,1
+2022,7,Monaco,False,True,True,Practice 2,ALO,0
+2022,7,Monaco,False,True,True,Practice 2,HAM,1
+2022,7,Monaco,False,True,True,Practice 2,BOT,1
+2022,7,Monaco,False,True,True,Practice 2,VET,0
+2022,7,Monaco,False,True,True,Practice 2,GAS,0
+2022,7,Monaco,False,True,True,Practice 2,OCO,3
+2022,7,Monaco,False,True,True,Practice 2,RIC,0
+2022,7,Monaco,False,True,True,Practice 2,STR,0
+2022,7,Monaco,False,True,True,Practice 2,LAT,2
+2022,7,Monaco,False,True,True,Practice 2,ZHO,1
+2022,7,Monaco,False,True,True,Practice 2,TSU,0
+2022,7,Monaco,False,True,True,Practice 2,ALB,2
+2022,7,Monaco,False,True,True,Practice 2,MSC,2
+2022,7,Monaco,False,True,True,Practice 2,MAG,1
+2022,8,Baku,False,True,False,Practice 2,VER,0
+2022,8,Baku,False,True,False,Practice 2,PER,1
+2022,8,Baku,False,True,False,Practice 2,RUS,1
+2022,8,Baku,False,True,False,Practice 2,HAM,0
+2022,8,Baku,False,True,False,Practice 2,GAS,1
+2022,8,Baku,False,True,False,Practice 2,VET,1
+2022,8,Baku,False,True,False,Practice 2,ALO,2
+2022,8,Baku,False,True,False,Practice 2,RIC,0
+2022,8,Baku,False,True,False,Practice 2,NOR,1
+2022,8,Baku,False,True,False,Practice 2,OCO,0
+2022,8,Baku,False,True,False,Practice 2,BOT,1
+2022,8,Baku,False,True,False,Practice 2,ALB,0
+2022,8,Baku,False,True,False,Practice 2,TSU,1
+2022,8,Baku,False,True,False,Practice 2,MSC,1
+2022,8,Baku,False,True,False,Practice 2,LAT,1
+2022,8,Baku,False,True,False,Practice 2,STR,1
+2022,8,Baku,False,True,False,Practice 2,MAG,1
+2022,8,Baku,False,True,False,Practice 2,ZHO,0
+2022,8,Baku,False,True,False,Practice 2,LEC,1
+2022,8,Baku,False,True,False,Practice 2,SAI,1
+2022,9,Montréal,False,False,False,Practice 2,VER,2
+2022,9,Montréal,False,False,False,Practice 2,SAI,2
+2022,9,Montréal,False,False,False,Practice 2,HAM,0
+2022,9,Montréal,False,False,False,Practice 2,RUS,2
+2022,9,Montréal,False,False,False,Practice 2,LEC,0
+2022,9,Montréal,False,False,False,Practice 2,OCO,3
+2022,9,Montréal,False,False,False,Practice 2,BOT,0
+2022,9,Montréal,False,False,False,Practice 2,ZHO,2
+2022,9,Montréal,False,False,False,Practice 2,ALO,2
+2022,9,Montréal,False,False,False,Practice 2,STR,2
+2022,9,Montréal,False,False,False,Practice 2,RIC,3
+2022,9,Montréal,False,False,False,Practice 2,VET,1
+2022,9,Montréal,False,False,False,Practice 2,ALB,2
+2022,9,Montréal,False,False,False,Practice 2,GAS,3
+2022,9,Montréal,False,False,False,Practice 2,NOR,3
+2022,9,Montréal,False,False,False,Practice 2,LAT,0
+2022,9,Montréal,False,False,False,Practice 2,MAG,3
+2022,9,Montréal,False,False,False,Practice 2,TSU,3
+2022,9,Montréal,False,False,False,Practice 2,MSC,2
+2022,9,Montréal,False,False,False,Practice 2,PER,2
+2022,10,Silverstone,False,False,True,Practice 2,SAI,1
+2022,10,Silverstone,False,False,True,Practice 2,PER,0
+2022,10,Silverstone,False,False,True,Practice 2,HAM,1
+2022,10,Silverstone,False,False,True,Practice 2,LEC,2
+2022,10,Silverstone,False,False,True,Practice 2,ALO,1
+2022,10,Silverstone,False,False,True,Practice 2,NOR,2
+2022,10,Silverstone,False,False,True,Practice 2,VER,1
+2022,10,Silverstone,False,False,True,Practice 2,MSC,3
+2022,10,Silverstone,False,False,True,Practice 2,VET,1
+2022,10,Silverstone,False,False,True,Practice 2,MAG,3
+2022,10,Silverstone,False,False,True,Practice 2,STR,0
+2022,10,Silverstone,False,False,True,Practice 2,LAT,2
+2022,10,Silverstone,False,False,True,Practice 2,RIC,2
+2022,10,Silverstone,False,False,True,Practice 2,TSU,3
+2022,10,Silverstone,False,False,True,Practice 2,OCO,0
+2022,10,Silverstone,False,False,True,Practice 2,GAS,1
+2022,10,Silverstone,False,False,True,Practice 2,BOT,2
+2022,10,Silverstone,False,False,True,Practice 2,RUS,1
+2022,10,Silverstone,False,False,True,Practice 2,ZHO,0
+2022,10,Silverstone,False,False,True,Practice 2,ALB,0
+2022,11,Spielberg,True,False,False,Practice 1,LEC,0
+2022,11,Spielberg,True,False,False,Practice 1,VER,2
+2022,11,Spielberg,True,False,False,Practice 1,HAM,0
+2022,11,Spielberg,True,False,False,Practice 1,RUS,2
+2022,11,Spielberg,True,False,False,Practice 1,OCO,1
+2022,11,Spielberg,True,False,False,Practice 1,MSC,1
+2022,11,Spielberg,True,False,False,Practice 1,NOR,1
+2022,11,Spielberg,True,False,False,Practice 1,MAG,2
+2022,11,Spielberg,True,False,False,Practice 1,RIC,1
+2022,11,Spielberg,True,False,False,Practice 1,ALO,2
+2022,11,Spielberg,True,False,False,Practice 1,BOT,2
+2022,11,Spielberg,True,False,False,Practice 1,ALB,2
+2022,11,Spielberg,True,False,False,Practice 1,STR,0
+2022,11,Spielberg,True,False,False,Practice 1,ZHO,0
+2022,11,Spielberg,True,False,False,Practice 1,GAS,0
+2022,11,Spielberg,True,False,False,Practice 1,TSU,2
+2022,11,Spielberg,True,False,False,Practice 1,VET,1
+2022,11,Spielberg,True,False,False,Practice 1,SAI,1
+2022,11,Spielberg,True,False,False,Practice 1,LAT,1
+2022,11,Spielberg,True,False,False,Practice 1,PER,0
+2022,12,Le Castellet,False,False,False,Practice 2,VER,1
+2022,12,Le Castellet,False,False,False,Practice 2,HAM,1
+2022,12,Le Castellet,False,False,False,Practice 2,RUS,1
+2022,12,Le Castellet,False,False,False,Practice 2,PER,1
+2022,12,Le Castellet,False,False,False,Practice 2,SAI,2
+2022,12,Le Castellet,False,False,False,Practice 2,ALO,2
+2022,12,Le Castellet,False,False,False,Practice 2,NOR,1
+2022,12,Le Castellet,False,False,False,Practice 2,OCO,2
+2022,12,Le Castellet,False,False,False,Practice 2,RIC,1
+2022,12,Le Castellet,False,False,False,Practice 2,STR,2
+2022,12,Le Castellet,False,False,False,Practice 2,VET,2
+2022,12,Le Castellet,False,False,False,Practice 2,GAS,2
+2022,12,Le Castellet,False,False,False,Practice 2,ALB,2
+2022,12,Le Castellet,False,False,False,Practice 2,BOT,2
+2022,12,Le Castellet,False,False,False,Practice 2,MSC,1
+2022,12,Le Castellet,False,False,False,Practice 2,ZHO,2
+2022,12,Le Castellet,False,False,False,Practice 2,LAT,2
+2022,12,Le Castellet,False,False,False,Practice 2,MAG,2
+2022,12,Le Castellet,False,False,False,Practice 2,LEC,2
+2022,12,Le Castellet,False,False,False,Practice 2,TSU,1
+2022,13,Budapest,False,False,True,Practice 2,VER,2
+2022,13,Budapest,False,False,True,Practice 2,HAM,0
+2022,13,Budapest,False,False,True,Practice 2,RUS,2
+2022,13,Budapest,False,False,True,Practice 2,SAI,2
+2022,13,Budapest,False,False,True,Practice 2,PER,2
+2022,13,Budapest,False,False,True,Practice 2,LEC,2
+2022,13,Budapest,False,False,True,Practice 2,NOR,3
+2022,13,Budapest,False,False,True,Practice 2,ALO,2
+2022,13,Budapest,False,False,True,Practice 2,OCO,1
+2022,13,Budapest,False,False,True,Practice 2,VET,2
+2022,13,Budapest,False,False,True,Practice 2,STR,2
+2022,13,Budapest,False,False,True,Practice 2,GAS,2
+2022,13,Budapest,False,False,True,Practice 2,ZHO,2
+2022,13,Budapest,False,False,True,Practice 2,MSC,2
+2022,13,Budapest,False,False,True,Practice 2,RIC,1
+2022,13,Budapest,False,False,True,Practice 2,MAG,2
+2022,13,Budapest,False,False,True,Practice 2,ALB,2
+2022,13,Budapest,False,False,True,Practice 2,LAT,2
+2022,13,Budapest,False,False,True,Practice 2,TSU,2
+2022,13,Budapest,False,False,True,Practice 2,BOT,2
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,VER,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,PER,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,SAI,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,RUS,1
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,ALO,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,LEC,1
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,OCO,1
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,VET,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,GAS,1
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,ALB,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,STR,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,NOR,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,TSU,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,ZHO,1
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,RIC,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,MAG,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,MSC,2
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,LAT,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,BOT,0
+2022,14,Spa-Francorchamps,False,False,False,Practice 2,HAM,0
+2022,15,Zandvoort,False,False,False,Practice 3,VER,2
+2022,15,Zandvoort,False,False,False,Practice 3,RUS,2
+2022,15,Zandvoort,False,False,False,Practice 3,LEC,1
+2022,15,Zandvoort,False,False,False,Practice 3,HAM,1
+2022,15,Zandvoort,False,False,False,Practice 3,PER,2
+2022,15,Zandvoort,False,False,False,Practice 3,ALO,0
+2022,15,Zandvoort,False,False,False,Practice 3,NOR,1
+2022,15,Zandvoort,False,False,False,Practice 3,SAI,0
+2022,15,Zandvoort,False,False,False,Practice 3,OCO,1
+2022,15,Zandvoort,False,False,False,Practice 3,STR,0
+2022,15,Zandvoort,False,False,False,Practice 3,GAS,0
+2022,15,Zandvoort,False,False,False,Practice 3,ALB,1
+2022,15,Zandvoort,False,False,False,Practice 3,MSC,0
+2022,15,Zandvoort,False,False,False,Practice 3,VET,0
+2022,15,Zandvoort,False,False,False,Practice 3,MAG,0
+2022,15,Zandvoort,False,False,False,Practice 3,ZHO,0
+2022,15,Zandvoort,False,False,False,Practice 3,RIC,0
+2022,15,Zandvoort,False,False,False,Practice 3,LAT,1
+2022,15,Zandvoort,False,False,False,Practice 3,BOT,0
+2022,15,Zandvoort,False,False,False,Practice 3,TSU,1
+2022,16,Monza,False,False,False,Practice 2,VER,0
+2022,16,Monza,False,False,False,Practice 2,LEC,0
+2022,16,Monza,False,False,False,Practice 2,RUS,1
+2022,16,Monza,False,False,False,Practice 2,SAI,1
+2022,16,Monza,False,False,False,Practice 2,HAM,2
+2022,16,Monza,False,False,False,Practice 2,PER,2
+2022,16,Monza,False,False,False,Practice 2,NOR,2
+2022,16,Monza,False,False,False,Practice 2,GAS,1
+2022,16,Monza,False,False,False,Practice 2,DEV,0
+2022,16,Monza,False,False,False,Practice 2,ZHO,2
+2022,16,Monza,False,False,False,Practice 2,OCO,3
+2022,16,Monza,False,False,False,Practice 2,MSC,0
+2022,16,Monza,False,False,False,Practice 2,BOT,2
+2022,16,Monza,False,False,False,Practice 2,TSU,2
+2022,16,Monza,False,False,False,Practice 2,LAT,1
+2022,16,Monza,False,False,False,Practice 2,MAG,2
+2022,16,Monza,False,False,False,Practice 2,RIC,3
+2022,16,Monza,False,False,False,Practice 2,STR,2
+2022,16,Monza,False,False,False,Practice 2,ALO,2
+2022,16,Monza,False,False,False,Practice 2,VET,2
+2022,17,Marina Bay,False,True,True,Practice 2,PER,0
+2022,17,Marina Bay,False,True,True,Practice 2,LEC,0
+2022,17,Marina Bay,False,True,True,Practice 2,SAI,1
+2022,17,Marina Bay,False,True,True,Practice 2,NOR,0
+2022,17,Marina Bay,False,True,True,Practice 2,RIC,0
+2022,17,Marina Bay,False,True,True,Practice 2,STR,2
+2022,17,Marina Bay,False,True,True,Practice 2,VER,0
+2022,17,Marina Bay,False,True,True,Practice 2,VET,0
+2022,17,Marina Bay,False,True,True,Practice 2,HAM,0
+2022,17,Marina Bay,False,True,True,Practice 2,GAS,1
+2022,17,Marina Bay,False,True,True,Practice 2,BOT,2
+2022,17,Marina Bay,False,True,True,Practice 2,MAG,2
+2022,17,Marina Bay,False,True,True,Practice 2,MSC,2
+2022,17,Marina Bay,False,True,True,Practice 2,RUS,1
+2022,17,Marina Bay,False,True,True,Practice 2,TSU,0
+2022,17,Marina Bay,False,True,True,Practice 2,OCO,0
+2022,17,Marina Bay,False,True,True,Practice 2,ALB,2
+2022,17,Marina Bay,False,True,True,Practice 2,ALO,2
+2022,17,Marina Bay,False,True,True,Practice 2,LAT,2
+2022,17,Marina Bay,False,True,True,Practice 2,ZHO,2
+2022,18,Suzuka,False,False,True,Practice 2,VER,2
+2022,18,Suzuka,False,False,True,Practice 2,PER,2
+2022,18,Suzuka,False,False,True,Practice 2,LEC,0
+2022,18,Suzuka,False,False,True,Practice 2,OCO,0
+2022,18,Suzuka,False,False,True,Practice 2,HAM,0
+2022,18,Suzuka,False,False,True,Practice 2,VET,2
+2022,18,Suzuka,False,False,True,Practice 2,ALO,0
+2022,18,Suzuka,False,False,True,Practice 2,RUS,1
+2022,18,Suzuka,False,False,True,Practice 2,LAT,0
+2022,18,Suzuka,False,False,True,Practice 2,NOR,0
+2022,18,Suzuka,False,False,True,Practice 2,RIC,0
+2022,18,Suzuka,False,False,True,Practice 2,STR,2
+2022,18,Suzuka,False,False,True,Practice 2,TSU,2
+2022,18,Suzuka,False,False,True,Practice 2,MAG,0
+2022,18,Suzuka,False,False,True,Practice 2,BOT,1
+2022,18,Suzuka,False,False,True,Practice 2,ZHO,0
+2022,18,Suzuka,False,False,True,Practice 2,MSC,0
+2022,18,Suzuka,False,False,True,Practice 2,GAS,0
+2022,18,Suzuka,False,False,True,Practice 2,SAI,1
+2022,18,Suzuka,False,False,True,Practice 2,ALB,0
+2022,19,Austin,False,False,False,Practice 2,VER,2
+2022,19,Austin,False,False,False,Practice 2,HAM,2
+2022,19,Austin,False,False,False,Practice 2,LEC,2
+2022,19,Austin,False,False,False,Practice 2,PER,2
+2022,19,Austin,False,False,False,Practice 2,RUS,2
+2022,19,Austin,False,False,False,Practice 2,NOR,2
+2022,19,Austin,False,False,False,Practice 2,ALO,2
+2022,19,Austin,False,False,False,Practice 2,VET,2
+2022,19,Austin,False,False,False,Practice 2,MAG,2
+2022,19,Austin,False,False,False,Practice 2,TSU,2
+2022,19,Austin,False,False,False,Practice 2,OCO,2
+2022,19,Austin,False,False,False,Practice 2,ZHO,2
+2022,19,Austin,False,False,False,Practice 2,ALB,2
+2022,19,Austin,False,False,False,Practice 2,GAS,2
+2022,19,Austin,False,False,False,Practice 2,MSC,2
+2022,19,Austin,False,False,False,Practice 2,RIC,3
+2022,19,Austin,False,False,False,Practice 2,LAT,2
+2022,19,Austin,False,False,False,Practice 2,STR,2
+2022,19,Austin,False,False,False,Practice 2,BOT,2
+2022,19,Austin,False,False,False,Practice 2,SAI,2
+2022,20,Mexico City,False,False,False,Practice 2,VER,3
+2022,20,Mexico City,False,False,False,Practice 2,HAM,3
+2022,20,Mexico City,False,False,False,Practice 2,PER,3
+2022,20,Mexico City,False,False,False,Practice 2,RUS,1
+2022,20,Mexico City,False,False,False,Practice 2,SAI,3
+2022,20,Mexico City,False,False,False,Practice 2,LEC,0
+2022,20,Mexico City,False,False,False,Practice 2,RIC,3
+2022,20,Mexico City,False,False,False,Practice 2,OCO,1
+2022,20,Mexico City,False,False,False,Practice 2,NOR,3
+2022,20,Mexico City,False,False,False,Practice 2,BOT,3
+2022,20,Mexico City,False,False,False,Practice 2,GAS,3
+2022,20,Mexico City,False,False,False,Practice 2,ALB,3
+2022,20,Mexico City,False,False,False,Practice 2,ZHO,3
+2022,20,Mexico City,False,False,False,Practice 2,VET,3
+2022,20,Mexico City,False,False,False,Practice 2,STR,1
+2022,20,Mexico City,False,False,False,Practice 2,MSC,3
+2022,20,Mexico City,False,False,False,Practice 2,MAG,2
+2022,20,Mexico City,False,False,False,Practice 2,LAT,3
+2022,20,Mexico City,False,False,False,Practice 2,ALO,3
+2022,20,Mexico City,False,False,False,Practice 2,TSU,0
+2022,21,São Paulo,True,False,False,Practice 1,RUS,2
+2022,21,São Paulo,True,False,False,Practice 1,HAM,2
+2022,21,São Paulo,True,False,False,Practice 1,SAI,1
+2022,21,São Paulo,True,False,False,Practice 1,LEC,2
+2022,21,São Paulo,True,False,False,Practice 1,ALO,2
+2022,21,São Paulo,True,False,False,Practice 1,VER,2
+2022,21,São Paulo,True,False,False,Practice 1,PER,2
+2022,21,São Paulo,True,False,False,Practice 1,OCO,3
+2022,21,São Paulo,True,False,False,Practice 1,BOT,0
+2022,21,São Paulo,True,False,False,Practice 1,STR,1
+2022,21,São Paulo,True,False,False,Practice 1,VET,0
+2022,21,São Paulo,True,False,False,Practice 1,ZHO,2
+2022,21,São Paulo,True,False,False,Practice 1,MSC,1
+2022,21,São Paulo,True,False,False,Practice 1,GAS,2
+2022,21,São Paulo,True,False,False,Practice 1,ALB,2
+2022,21,São Paulo,True,False,False,Practice 1,LAT,2
+2022,21,São Paulo,True,False,False,Practice 1,TSU,2
+2022,21,São Paulo,True,False,False,Practice 1,NOR,2
+2022,21,São Paulo,True,False,False,Practice 1,MAG,0
+2022,21,São Paulo,True,False,False,Practice 1,RIC,3
+2022,22,Yas Island,False,False,False,Practice 2,VER,1
+2022,22,Yas Island,False,False,False,Practice 2,LEC,2
+2022,22,Yas Island,False,False,False,Practice 2,PER,2
+2022,22,Yas Island,False,False,False,Practice 2,SAI,2
+2022,22,Yas Island,False,False,False,Practice 2,RUS,2
+2022,22,Yas Island,False,False,False,Practice 2,NOR,1
+2022,22,Yas Island,False,False,False,Practice 2,OCO,2
+2022,22,Yas Island,False,False,False,Practice 2,STR,2
+2022,22,Yas Island,False,False,False,Practice 2,RIC,0
+2022,22,Yas Island,False,False,False,Practice 2,VET,2
+2022,22,Yas Island,False,False,False,Practice 2,TSU,3
+2022,22,Yas Island,False,False,False,Practice 2,ZHO,3
+2022,22,Yas Island,False,False,False,Practice 2,ALB,2
+2022,22,Yas Island,False,False,False,Practice 2,GAS,2
+2022,22,Yas Island,False,False,False,Practice 2,BOT,2
+2022,22,Yas Island,False,False,False,Practice 2,MSC,2
+2022,22,Yas Island,False,False,False,Practice 2,MAG,2
+2022,22,Yas Island,False,False,False,Practice 2,HAM,1
+2022,22,Yas Island,False,False,False,Practice 2,LAT,2
+2022,22,Yas Island,False,False,False,Practice 2,ALO,1
+2023,1,Sakhir,False,False,False,Practice 2,VER,2
+2023,1,Sakhir,False,False,False,Practice 2,PER,2
+2023,1,Sakhir,False,False,False,Practice 2,ALO,2
+2023,1,Sakhir,False,False,False,Practice 2,SAI,3
+2023,1,Sakhir,False,False,False,Practice 2,HAM,2
+2023,1,Sakhir,False,False,False,Practice 2,STR,2
+2023,1,Sakhir,False,False,False,Practice 2,RUS,2
+2023,1,Sakhir,False,False,False,Practice 2,BOT,2
+2023,1,Sakhir,False,False,False,Practice 2,GAS,2
+2023,1,Sakhir,False,False,False,Practice 2,ALB,2
+2023,1,Sakhir,False,False,False,Practice 2,TSU,2
+2023,1,Sakhir,False,False,False,Practice 2,SAR,2
+2023,1,Sakhir,False,False,False,Practice 2,MAG,1
+2023,1,Sakhir,False,False,False,Practice 2,DEV,0
+2023,1,Sakhir,False,False,False,Practice 2,HUL,3
+2023,1,Sakhir,False,False,False,Practice 2,ZHO,2
+2023,1,Sakhir,False,False,False,Practice 2,NOR,2
+2023,1,Sakhir,False,False,False,Practice 2,OCO,2
+2023,1,Sakhir,False,False,False,Practice 2,LEC,3
+2023,1,Sakhir,False,False,False,Practice 2,PIA,2
+2023,2,Jeddah,False,True,False,Practice 2,PER,2
+2023,2,Jeddah,False,True,False,Practice 2,VER,2
+2023,2,Jeddah,False,True,False,Practice 2,ALO,2
+2023,2,Jeddah,False,True,False,Practice 2,RUS,0
+2023,2,Jeddah,False,True,False,Practice 2,HAM,1
+2023,2,Jeddah,False,True,False,Practice 2,SAI,2
+2023,2,Jeddah,False,True,False,Practice 2,LEC,2
+2023,2,Jeddah,False,True,False,Practice 2,OCO,2
+2023,2,Jeddah,False,True,False,Practice 2,GAS,2
+2023,2,Jeddah,False,True,False,Practice 2,MAG,0
+2023,2,Jeddah,False,True,False,Practice 2,TSU,2
+2023,2,Jeddah,False,True,False,Practice 2,HUL,2
+2023,2,Jeddah,False,True,False,Practice 2,ZHO,2
+2023,2,Jeddah,False,True,False,Practice 2,DEV,2
+2023,2,Jeddah,False,True,False,Practice 2,PIA,1
+2023,2,Jeddah,False,True,False,Practice 2,SAR,2
+2023,2,Jeddah,False,True,False,Practice 2,NOR,1
+2023,2,Jeddah,False,True,False,Practice 2,BOT,2
+2023,2,Jeddah,False,True,False,Practice 2,ALB,2
+2023,2,Jeddah,False,True,False,Practice 2,STR,2
+2023,3,Melbourne,False,False,False,Practice 3,VER,2
+2023,3,Melbourne,False,False,False,Practice 3,HAM,0
+2023,3,Melbourne,False,False,False,Practice 3,ALO,1
+2023,3,Melbourne,False,False,False,Practice 3,STR,0
+2023,3,Melbourne,False,False,False,Practice 3,PER,0
+2023,3,Melbourne,False,False,False,Practice 3,NOR,2
+2023,3,Melbourne,False,False,False,Practice 3,HUL,1
+2023,3,Melbourne,False,False,False,Practice 3,PIA,1
+2023,3,Melbourne,False,False,False,Practice 3,ZHO,1
+2023,3,Melbourne,False,False,False,Practice 3,TSU,1
+2023,3,Melbourne,False,False,False,Practice 3,BOT,0
+2023,3,Melbourne,False,False,False,Practice 3,SAI,0
+2023,3,Melbourne,False,False,False,Practice 3,GAS,0
+2023,3,Melbourne,False,False,False,Practice 3,OCO,1
+2023,3,Melbourne,False,False,False,Practice 3,DEV,0
+2023,3,Melbourne,False,False,False,Practice 3,SAR,0
+2023,3,Melbourne,False,False,False,Practice 3,MAG,1
+2023,3,Melbourne,False,False,False,Practice 3,RUS,2
+2023,3,Melbourne,False,False,False,Practice 3,ALB,0
+2023,3,Melbourne,False,False,False,Practice 3,LEC,1
+2023,4,Baku,True,True,False,Practice 1,PER,1
+2023,4,Baku,True,True,False,Practice 1,VER,1
+2023,4,Baku,True,True,False,Practice 1,LEC,0
+2023,4,Baku,True,True,False,Practice 1,ALO,0
+2023,4,Baku,True,True,False,Practice 1,SAI,0
+2023,4,Baku,True,True,False,Practice 1,HAM,2
+2023,4,Baku,True,True,False,Practice 1,STR,0
+2023,4,Baku,True,True,False,Practice 1,RUS,0
+2023,4,Baku,True,True,False,Practice 1,NOR,0
+2023,4,Baku,True,True,False,Practice 1,TSU,0
+2023,4,Baku,True,True,False,Practice 1,PIA,1
+2023,4,Baku,True,True,False,Practice 1,ALB,1
+2023,4,Baku,True,True,False,Practice 1,MAG,0
+2023,4,Baku,True,True,False,Practice 1,GAS,0
+2023,4,Baku,True,True,False,Practice 1,OCO,0
+2023,4,Baku,True,True,False,Practice 1,SAR,1
+2023,4,Baku,True,True,False,Practice 1,HUL,0
+2023,4,Baku,True,True,False,Practice 1,BOT,1
+2023,4,Baku,True,True,False,Practice 1,ZHO,1
+2023,4,Baku,True,True,False,Practice 1,DEV,0
+2023,5,Miami,False,True,False,Practice 3,VER,0
+2023,5,Miami,False,True,False,Practice 3,PER,0
+2023,5,Miami,False,True,False,Practice 3,ALO,0
+2023,5,Miami,False,True,False,Practice 3,RUS,0
+2023,5,Miami,False,True,False,Practice 3,SAI,1
+2023,5,Miami,False,True,False,Practice 3,HAM,0
+2023,5,Miami,False,True,False,Practice 3,LEC,2
+2023,5,Miami,False,True,False,Practice 3,GAS,0
+2023,5,Miami,False,True,False,Practice 3,OCO,0
+2023,5,Miami,False,True,False,Practice 3,MAG,0
+2023,5,Miami,False,True,False,Practice 3,TSU,0
+2023,5,Miami,False,True,False,Practice 3,STR,0
+2023,5,Miami,False,True,False,Practice 3,BOT,0
+2023,5,Miami,False,True,False,Practice 3,ALB,0
+2023,5,Miami,False,True,False,Practice 3,HUL,0
+2023,5,Miami,False,True,False,Practice 3,ZHO,0
+2023,5,Miami,False,True,False,Practice 3,NOR,0
+2023,5,Miami,False,True,False,Practice 3,DEV,0
+2023,5,Miami,False,True,False,Practice 3,PIA,0
+2023,5,Miami,False,True,False,Practice 3,SAR,0
+2023,6,Monaco,False,True,True,Practice 2,VER,2
+2023,6,Monaco,False,True,True,Practice 2,ALO,1
+2023,6,Monaco,False,True,True,Practice 2,OCO,3
+2023,6,Monaco,False,True,True,Practice 2,HAM,1
+2023,6,Monaco,False,True,True,Practice 2,RUS,0
+2023,6,Monaco,False,True,True,Practice 2,LEC,1
+2023,6,Monaco,False,True,True,Practice 2,GAS,3
+2023,6,Monaco,False,True,True,Practice 2,SAI,0
+2023,6,Monaco,False,True,True,Practice 2,NOR,1
+2023,6,Monaco,False,True,True,Practice 2,PIA,2
+2023,6,Monaco,False,True,True,Practice 2,BOT,1
+2023,6,Monaco,False,True,True,Practice 2,DEV,1
+2023,6,Monaco,False,True,True,Practice 2,ZHO,2
+2023,6,Monaco,False,True,True,Practice 2,ALB,0
+2023,6,Monaco,False,True,True,Practice 2,TSU,1
+2023,6,Monaco,False,True,True,Practice 2,PER,1
+2023,6,Monaco,False,True,True,Practice 2,HUL,1
+2023,6,Monaco,False,True,True,Practice 2,SAR,3
+2023,6,Monaco,False,True,True,Practice 2,MAG,2
+2023,6,Monaco,False,True,True,Practice 2,STR,2
+2023,7,Barcelona,False,False,False,Practice 2,VER,3
+2023,7,Barcelona,False,False,False,Practice 2,HAM,2
+2023,7,Barcelona,False,False,False,Practice 2,RUS,2
+2023,7,Barcelona,False,False,False,Practice 2,PER,2
+2023,7,Barcelona,False,False,False,Practice 2,SAI,3
+2023,7,Barcelona,False,False,False,Practice 2,STR,3
+2023,7,Barcelona,False,False,False,Practice 2,ALO,2
+2023,7,Barcelona,False,False,False,Practice 2,OCO,2
+2023,7,Barcelona,False,False,False,Practice 2,ZHO,2
+2023,7,Barcelona,False,False,False,Practice 2,GAS,2
+2023,7,Barcelona,False,False,False,Practice 2,LEC,3
+2023,7,Barcelona,False,False,False,Practice 2,TSU,2
+2023,7,Barcelona,False,False,False,Practice 2,PIA,2
+2023,7,Barcelona,False,False,False,Practice 2,DEV,2
+2023,7,Barcelona,False,False,False,Practice 2,HUL,2
+2023,7,Barcelona,False,False,False,Practice 2,ALB,2
+2023,7,Barcelona,False,False,False,Practice 2,NOR,2
+2023,7,Barcelona,False,False,False,Practice 2,MAG,2
+2023,7,Barcelona,False,False,False,Practice 2,BOT,3
+2023,7,Barcelona,False,False,False,Practice 2,SAR,3
+2023,8,Montréal,False,False,False,Practice 2,VER,2
+2023,8,Montréal,False,False,False,Practice 2,ALO,2
+2023,8,Montréal,False,False,False,Practice 2,HAM,2
+2023,8,Montréal,False,False,False,Practice 2,LEC,0
+2023,8,Montréal,False,False,False,Practice 2,SAI,3
+2023,8,Montréal,False,False,False,Practice 2,PER,2
+2023,8,Montréal,False,False,False,Practice 2,ALB,2
+2023,8,Montréal,False,False,False,Practice 2,OCO,0
+2023,8,Montréal,False,False,False,Practice 2,STR,0
+2023,8,Montréal,False,False,False,Practice 2,BOT,3
+2023,8,Montréal,False,False,False,Practice 2,PIA,3
+2023,8,Montréal,False,False,False,Practice 2,GAS,3
+2023,8,Montréal,False,False,False,Practice 2,NOR,3
+2023,8,Montréal,False,False,False,Practice 2,TSU,3
+2023,8,Montréal,False,False,False,Practice 2,HUL,0
+2023,8,Montréal,False,False,False,Practice 2,ZHO,2
+2023,8,Montréal,False,False,False,Practice 2,MAG,1
+2023,8,Montréal,False,False,False,Practice 2,DEV,0
+2023,8,Montréal,False,False,False,Practice 2,RUS,2
+2023,8,Montréal,False,False,False,Practice 2,SAR,3
+2023,9,Spielberg,True,False,True,Practice 1,VER,2
+2023,9,Spielberg,True,False,True,Practice 1,LEC,0
+2023,9,Spielberg,True,False,True,Practice 1,PER,2
+2023,9,Spielberg,True,False,True,Practice 1,NOR,2
+2023,9,Spielberg,True,False,True,Practice 1,ALO,2
+2023,9,Spielberg,True,False,True,Practice 1,SAI,2
+2023,9,Spielberg,True,False,True,Practice 1,RUS,3
+2023,9,Spielberg,True,False,True,Practice 1,HAM,1
+2023,9,Spielberg,True,False,True,Practice 1,STR,0
+2023,9,Spielberg,True,False,True,Practice 1,GAS,1
+2023,9,Spielberg,True,False,True,Practice 1,ALB,0
+2023,9,Spielberg,True,False,True,Practice 1,ZHO,3
+2023,9,Spielberg,True,False,True,Practice 1,SAR,2
+2023,9,Spielberg,True,False,True,Practice 1,OCO,2
+2023,9,Spielberg,True,False,True,Practice 1,BOT,2
+2023,9,Spielberg,True,False,True,Practice 1,PIA,2
+2023,9,Spielberg,True,False,True,Practice 1,DEV,2
+2023,9,Spielberg,True,False,True,Practice 1,MAG,2
+2023,9,Spielberg,True,False,True,Practice 1,TSU,2
+2023,9,Spielberg,True,False,True,Practice 1,HUL,3
+2023,10,Silverstone,False,False,False,Practice 2,VER,3
+2023,10,Silverstone,False,False,False,Practice 2,NOR,2
+2023,10,Silverstone,False,False,False,Practice 2,HAM,2
+2023,10,Silverstone,False,False,False,Practice 2,PIA,2
+2023,10,Silverstone,False,False,False,Practice 2,RUS,0
+2023,10,Silverstone,False,False,False,Practice 2,PER,3
+2023,10,Silverstone,False,False,False,Practice 2,ALO,2
+2023,10,Silverstone,False,False,False,Practice 2,ALB,2
+2023,10,Silverstone,False,False,False,Practice 2,LEC,0
+2023,10,Silverstone,False,False,False,Practice 2,SAI,2
+2023,10,Silverstone,False,False,False,Practice 2,SAR,2
+2023,10,Silverstone,False,False,False,Practice 2,BOT,2
+2023,10,Silverstone,False,False,False,Practice 2,HUL,2
+2023,10,Silverstone,False,False,False,Practice 2,STR,2
+2023,10,Silverstone,False,False,False,Practice 2,ZHO,1
+2023,10,Silverstone,False,False,False,Practice 2,TSU,2
+2023,10,Silverstone,False,False,False,Practice 2,DEV,2
+2023,10,Silverstone,False,False,False,Practice 2,GAS,2
+2023,10,Silverstone,False,False,False,Practice 2,MAG,1
+2023,10,Silverstone,False,False,False,Practice 2,OCO,1
+2023,11,Budapest,False,False,False,Practice 2,VER,1
+2023,11,Budapest,False,False,False,Practice 2,NOR,2
+2023,11,Budapest,False,False,False,Practice 2,PER,0
+2023,11,Budapest,False,False,False,Practice 2,HAM,2
+2023,11,Budapest,False,False,False,Practice 2,PIA,1
+2023,11,Budapest,False,False,False,Practice 2,RUS,1
+2023,11,Budapest,False,False,False,Practice 2,LEC,1
+2023,11,Budapest,False,False,False,Practice 2,SAI,1
+2023,11,Budapest,False,False,False,Practice 2,ALO,2
+2023,11,Budapest,False,False,False,Practice 2,STR,3
+2023,11,Budapest,False,False,False,Practice 2,ALB,2
+2023,11,Budapest,False,False,False,Practice 2,BOT,2
+2023,11,Budapest,False,False,False,Practice 2,RIC,0
+2023,11,Budapest,False,False,False,Practice 2,HUL,2
+2023,11,Budapest,False,False,False,Practice 2,TSU,2
+2023,11,Budapest,False,False,False,Practice 2,ZHO,2
+2023,11,Budapest,False,False,False,Practice 2,MAG,2
+2023,11,Budapest,False,False,False,Practice 2,SAR,2
+2023,11,Budapest,False,False,False,Practice 2,OCO,3
+2023,11,Budapest,False,False,False,Practice 2,GAS,2
+2023,12,Spa-Francorchamps,True,False,True,,VER,0
+2023,12,Spa-Francorchamps,True,False,True,,PER,0
+2023,12,Spa-Francorchamps,True,False,True,,LEC,0
+2023,12,Spa-Francorchamps,True,False,True,,HAM,0
+2023,12,Spa-Francorchamps,True,False,True,,ALO,0
+2023,12,Spa-Francorchamps,True,False,True,,RUS,0
+2023,12,Spa-Francorchamps,True,False,True,,NOR,0
+2023,12,Spa-Francorchamps,True,False,True,,OCO,0
+2023,12,Spa-Francorchamps,True,False,True,,STR,0
+2023,12,Spa-Francorchamps,True,False,True,,TSU,0
+2023,12,Spa-Francorchamps,True,False,True,,GAS,0
+2023,12,Spa-Francorchamps,True,False,True,,BOT,0
+2023,12,Spa-Francorchamps,True,False,True,,ZHO,0
+2023,12,Spa-Francorchamps,True,False,True,,ALB,0
+2023,12,Spa-Francorchamps,True,False,True,,MAG,0
+2023,12,Spa-Francorchamps,True,False,True,,RIC,0
+2023,12,Spa-Francorchamps,True,False,True,,SAR,0
+2023,12,Spa-Francorchamps,True,False,True,,HUL,0
+2023,12,Spa-Francorchamps,True,False,True,,SAI,0
+2023,12,Spa-Francorchamps,True,False,True,,PIA,0
+2023,13,Zandvoort,False,False,True,Practice 2,VER,2
+2023,13,Zandvoort,False,False,True,Practice 2,ALO,2
+2023,13,Zandvoort,False,False,True,Practice 2,GAS,2
+2023,13,Zandvoort,False,False,True,Practice 2,PER,2
+2023,13,Zandvoort,False,False,True,Practice 2,SAI,2
+2023,13,Zandvoort,False,False,True,Practice 2,HAM,2
+2023,13,Zandvoort,False,False,True,Practice 2,NOR,2
+2023,13,Zandvoort,False,False,True,Practice 2,ALB,2
+2023,13,Zandvoort,False,False,True,Practice 2,PIA,0
+2023,13,Zandvoort,False,False,True,Practice 2,OCO,2
+2023,13,Zandvoort,False,False,True,Practice 2,STR,2
+2023,13,Zandvoort,False,False,True,Practice 2,HUL,2
+2023,13,Zandvoort,False,False,True,Practice 2,LAW,0
+2023,13,Zandvoort,False,False,True,Practice 2,BOT,2
+2023,13,Zandvoort,False,False,True,Practice 2,TSU,2
+2023,13,Zandvoort,False,False,True,Practice 2,MAG,2
+2023,13,Zandvoort,False,False,True,Practice 2,RUS,0
+2023,13,Zandvoort,False,False,True,Practice 2,ZHO,2
+2023,13,Zandvoort,False,False,True,Practice 2,LEC,2
+2023,13,Zandvoort,False,False,True,Practice 2,SAR,3
+2023,14,Monza,False,False,False,Practice 3,VER,2
+2023,14,Monza,False,False,False,Practice 3,PER,2
+2023,14,Monza,False,False,False,Practice 3,SAI,2
+2023,14,Monza,False,False,False,Practice 3,LEC,1
+2023,14,Monza,False,False,False,Practice 3,RUS,1
+2023,14,Monza,False,False,False,Practice 3,HAM,1
+2023,14,Monza,False,False,False,Practice 3,ALB,0
+2023,14,Monza,False,False,False,Practice 3,NOR,0
+2023,14,Monza,False,False,False,Practice 3,ALO,0
+2023,14,Monza,False,False,False,Practice 3,BOT,2
+2023,14,Monza,False,False,False,Practice 3,LAW,2
+2023,14,Monza,False,False,False,Practice 3,PIA,0
+2023,14,Monza,False,False,False,Practice 3,SAR,0
+2023,14,Monza,False,False,False,Practice 3,ZHO,2
+2023,14,Monza,False,False,False,Practice 3,GAS,0
+2023,14,Monza,False,False,False,Practice 3,STR,0
+2023,14,Monza,False,False,False,Practice 3,HUL,2
+2023,14,Monza,False,False,False,Practice 3,MAG,0
+2023,14,Monza,False,False,False,Practice 3,OCO,0
+2023,14,Monza,False,False,False,Practice 3,TSU,2
+2023,15,Marina Bay,False,True,False,Practice 2,SAI,2
+2023,15,Marina Bay,False,True,False,Practice 2,NOR,1
+2023,15,Marina Bay,False,True,False,Practice 2,HAM,2
+2023,15,Marina Bay,False,True,False,Practice 2,LEC,2
+2023,15,Marina Bay,False,True,False,Practice 2,VER,0
+2023,15,Marina Bay,False,True,False,Practice 2,GAS,2
+2023,15,Marina Bay,False,True,False,Practice 2,PIA,1
+2023,15,Marina Bay,False,True,False,Practice 2,PER,1
+2023,15,Marina Bay,False,True,False,Practice 2,LAW,2
+2023,15,Marina Bay,False,True,False,Practice 2,MAG,2
+2023,15,Marina Bay,False,True,False,Practice 2,ALB,0
+2023,15,Marina Bay,False,True,False,Practice 2,ZHO,1
+2023,15,Marina Bay,False,True,False,Practice 2,HUL,2
+2023,15,Marina Bay,False,True,False,Practice 2,SAR,2
+2023,15,Marina Bay,False,True,False,Practice 2,ALO,2
+2023,15,Marina Bay,False,True,False,Practice 2,RUS,2
+2023,15,Marina Bay,False,True,False,Practice 2,BOT,2
+2023,15,Marina Bay,False,True,False,Practice 2,OCO,2
+2023,15,Marina Bay,False,True,False,Practice 2,TSU,2
+2023,15,Marina Bay,False,True,False,Practice 2,STR,1
+2023,16,Suzuka,False,False,False,Practice 2,VER,2
+2023,16,Suzuka,False,False,False,Practice 2,NOR,2
+2023,16,Suzuka,False,False,False,Practice 2,PIA,1
+2023,16,Suzuka,False,False,False,Practice 2,LEC,2
+2023,16,Suzuka,False,False,False,Practice 2,HAM,1
+2023,16,Suzuka,False,False,False,Practice 2,SAI,2
+2023,16,Suzuka,False,False,False,Practice 2,RUS,2
+2023,16,Suzuka,False,False,False,Practice 2,ALO,2
+2023,16,Suzuka,False,False,False,Practice 2,OCO,2
+2023,16,Suzuka,False,False,False,Practice 2,GAS,2
+2023,16,Suzuka,False,False,False,Practice 2,LAW,1
+2023,16,Suzuka,False,False,False,Practice 2,TSU,2
+2023,16,Suzuka,False,False,False,Practice 2,ZHO,0
+2023,16,Suzuka,False,False,False,Practice 2,HUL,2
+2023,16,Suzuka,False,False,False,Practice 2,MAG,2
+2023,16,Suzuka,False,False,False,Practice 2,ALB,2
+2023,16,Suzuka,False,False,False,Practice 2,SAR,3
+2023,16,Suzuka,False,False,False,Practice 2,STR,1
+2023,16,Suzuka,False,False,False,Practice 2,PER,2
+2023,16,Suzuka,False,False,False,Practice 2,BOT,0
+2023,17,Lusail,True,False,False,Practice 1,VER,1
+2023,17,Lusail,True,False,False,Practice 1,PIA,1
+2023,17,Lusail,True,False,False,Practice 1,NOR,0
+2023,17,Lusail,True,False,False,Practice 1,RUS,3
+2023,17,Lusail,True,False,False,Practice 1,LEC,1
+2023,17,Lusail,True,False,False,Practice 1,ALO,1
+2023,17,Lusail,True,False,False,Practice 1,OCO,1
+2023,17,Lusail,True,False,False,Practice 1,BOT,2
+2023,17,Lusail,True,False,False,Practice 1,ZHO,3
+2023,17,Lusail,True,False,False,Practice 1,PER,1
+2023,17,Lusail,True,False,False,Practice 1,STR,0
+2023,17,Lusail,True,False,False,Practice 1,GAS,2
+2023,17,Lusail,True,False,False,Practice 1,ALB,2
+2023,17,Lusail,True,False,False,Practice 1,MAG,3
+2023,17,Lusail,True,False,False,Practice 1,TSU,2
+2023,17,Lusail,True,False,False,Practice 1,HUL,1
+2023,17,Lusail,True,False,False,Practice 1,LAW,0
+2023,17,Lusail,True,False,False,Practice 1,SAR,1
+2023,17,Lusail,True,False,False,Practice 1,HAM,1
+2023,17,Lusail,True,False,False,Practice 1,SAI,0
+2023,18,Austin,True,False,False,Practice 1,VER,2
+2023,18,Austin,True,False,False,Practice 1,NOR,2
+2023,18,Austin,True,False,False,Practice 1,SAI,1
+2023,18,Austin,True,False,False,Practice 1,PER,2
+2023,18,Austin,True,False,False,Practice 1,RUS,3
+2023,18,Austin,True,False,False,Practice 1,GAS,1
+2023,18,Austin,True,False,False,Practice 1,STR,0
+2023,18,Austin,True,False,False,Practice 1,TSU,3
+2023,18,Austin,True,False,False,Practice 1,ALB,1
+2023,18,Austin,True,False,False,Practice 1,SAR,2
+2023,18,Austin,True,False,False,Practice 1,HUL,1
+2023,18,Austin,True,False,False,Practice 1,BOT,1
+2023,18,Austin,True,False,False,Practice 1,ZHO,2
+2023,18,Austin,True,False,False,Practice 1,MAG,1
+2023,18,Austin,True,False,False,Practice 1,RIC,2
+2023,18,Austin,True,False,False,Practice 1,ALO,1
+2023,18,Austin,True,False,False,Practice 1,PIA,0
+2023,18,Austin,True,False,False,Practice 1,OCO,1
+2023,18,Austin,True,False,False,Practice 1,HAM,1
+2023,18,Austin,True,False,False,Practice 1,LEC,1
+2023,19,Mexico City,False,False,False,Practice 2,VER,2
+2023,19,Mexico City,False,False,False,Practice 2,HAM,2
+2023,19,Mexico City,False,False,False,Practice 2,LEC,0
+2023,19,Mexico City,False,False,False,Practice 2,SAI,2
+2023,19,Mexico City,False,False,False,Practice 2,NOR,2
+2023,19,Mexico City,False,False,False,Practice 2,RUS,2
+2023,19,Mexico City,False,False,False,Practice 2,RIC,2
+2023,19,Mexico City,False,False,False,Practice 2,PIA,2
+2023,19,Mexico City,False,False,False,Practice 2,ALB,2
+2023,19,Mexico City,False,False,False,Practice 2,OCO,0
+2023,19,Mexico City,False,False,False,Practice 2,GAS,2
+2023,19,Mexico City,False,False,False,Practice 2,TSU,2
+2023,19,Mexico City,False,False,False,Practice 2,HUL,2
+2023,19,Mexico City,False,False,False,Practice 2,ZHO,0
+2023,19,Mexico City,False,False,False,Practice 2,BOT,2
+2023,19,Mexico City,False,False,False,Practice 2,SAR,2
+2023,19,Mexico City,False,False,False,Practice 2,STR,0
+2023,19,Mexico City,False,False,False,Practice 2,ALO,2
+2023,19,Mexico City,False,False,False,Practice 2,MAG,2
+2023,19,Mexico City,False,False,False,Practice 2,PER,2
+2023,20,São Paulo,True,False,True,Practice 1,VER,2
+2023,20,São Paulo,True,False,True,Practice 1,NOR,1
+2023,20,São Paulo,True,False,True,Practice 1,ALO,2
+2023,20,São Paulo,True,False,True,Practice 1,PER,2
+2023,20,São Paulo,True,False,True,Practice 1,STR,1
+2023,20,São Paulo,True,False,True,Practice 1,SAI,3
+2023,20,São Paulo,True,False,True,Practice 1,GAS,1
+2023,20,São Paulo,True,False,True,Practice 1,HAM,3
+2023,20,São Paulo,True,False,True,Practice 1,TSU,1
+2023,20,São Paulo,True,False,True,Practice 1,OCO,2
+2023,20,São Paulo,True,False,True,Practice 1,SAR,2
+2023,20,São Paulo,True,False,True,Practice 1,HUL,0
+2023,20,São Paulo,True,False,True,Practice 1,RIC,3
+2023,20,São Paulo,True,False,True,Practice 1,PIA,2
+2023,20,São Paulo,True,False,True,Practice 1,RUS,3
+2023,20,São Paulo,True,False,True,Practice 1,BOT,2
+2023,20,São Paulo,True,False,True,Practice 1,ZHO,1
+2023,20,São Paulo,True,False,True,Practice 1,MAG,1
+2023,20,São Paulo,True,False,True,Practice 1,ALB,3
+2023,20,São Paulo,True,False,True,Practice 1,LEC,2
+2023,21,Las Vegas,False,True,False,Practice 2,VER,1
+2023,21,Las Vegas,False,True,False,Practice 2,LEC,2
+2023,21,Las Vegas,False,True,False,Practice 2,PER,3
+2023,21,Las Vegas,False,True,False,Practice 2,OCO,3
+2023,21,Las Vegas,False,True,False,Practice 2,STR,1
+2023,21,Las Vegas,False,True,False,Practice 2,SAI,1
+2023,21,Las Vegas,False,True,False,Practice 2,HAM,2
+2023,21,Las Vegas,False,True,False,Practice 2,RUS,0
+2023,21,Las Vegas,False,True,False,Practice 2,ALO,1
+2023,21,Las Vegas,False,True,False,Practice 2,PIA,2
+2023,21,Las Vegas,False,True,False,Practice 2,GAS,0
+2023,21,Las Vegas,False,True,False,Practice 2,ALB,3
+2023,21,Las Vegas,False,True,False,Practice 2,MAG,1
+2023,21,Las Vegas,False,True,False,Practice 2,RIC,3
+2023,21,Las Vegas,False,True,False,Practice 2,ZHO,1
+2023,21,Las Vegas,False,True,False,Practice 2,SAR,3
+2023,21,Las Vegas,False,True,False,Practice 2,BOT,1
+2023,21,Las Vegas,False,True,False,Practice 2,TSU,1
+2023,21,Las Vegas,False,True,False,Practice 2,HUL,1
+2023,21,Las Vegas,False,True,False,Practice 2,NOR,1
+2023,22,Yas Island,False,False,False,Practice 2,VER,0
+2023,22,Yas Island,False,False,False,Practice 2,LEC,0
+2023,22,Yas Island,False,False,False,Practice 2,RUS,1
+2023,22,Yas Island,False,False,False,Practice 2,PER,0
+2023,22,Yas Island,False,False,False,Practice 2,NOR,1
+2023,22,Yas Island,False,False,False,Practice 2,PIA,2
+2023,22,Yas Island,False,False,False,Practice 2,ALO,0
+2023,22,Yas Island,False,False,False,Practice 2,TSU,1
+2023,22,Yas Island,False,False,False,Practice 2,HAM,0
+2023,22,Yas Island,False,False,False,Practice 2,STR,1
+2023,22,Yas Island,False,False,False,Practice 2,RIC,1
+2023,22,Yas Island,False,False,False,Practice 2,OCO,0
+2023,22,Yas Island,False,False,False,Practice 2,GAS,0
+2023,22,Yas Island,False,False,False,Practice 2,ALB,2
+2023,22,Yas Island,False,False,False,Practice 2,HUL,0
+2023,22,Yas Island,False,False,False,Practice 2,SAR,2
+2023,22,Yas Island,False,False,False,Practice 2,ZHO,0
+2023,22,Yas Island,False,False,False,Practice 2,SAI,0
+2023,22,Yas Island,False,False,False,Practice 2,BOT,1
+2023,22,Yas Island,False,False,False,Practice 2,MAG,2
+2024,1,Sakhir,False,False,False,Practice 2,VER,2
+2024,1,Sakhir,False,False,False,Practice 2,PER,2
+2024,1,Sakhir,False,False,False,Practice 2,SAI,2
+2024,1,Sakhir,False,False,False,Practice 2,LEC,2
+2024,1,Sakhir,False,False,False,Practice 2,RUS,2
+2024,1,Sakhir,False,False,False,Practice 2,NOR,2
+2024,1,Sakhir,False,False,False,Practice 2,HAM,2
+2024,1,Sakhir,False,False,False,Practice 2,PIA,2
+2024,1,Sakhir,False,False,False,Practice 2,ALO,2
+2024,1,Sakhir,False,False,False,Practice 2,STR,2
+2024,1,Sakhir,False,False,False,Practice 2,ZHO,2
+2024,1,Sakhir,False,False,False,Practice 2,MAG,2
+2024,1,Sakhir,False,False,False,Practice 2,RIC,2
+2024,1,Sakhir,False,False,False,Practice 2,TSU,2
+2024,1,Sakhir,False,False,False,Practice 2,ALB,2
+2024,1,Sakhir,False,False,False,Practice 2,HUL,2
+2024,1,Sakhir,False,False,False,Practice 2,OCO,2
+2024,1,Sakhir,False,False,False,Practice 2,GAS,2
+2024,1,Sakhir,False,False,False,Practice 2,BOT,2
+2024,1,Sakhir,False,False,False,Practice 2,SAR,2
+2024,2,Jeddah,False,True,False,Practice 2,VER,2
+2024,2,Jeddah,False,True,False,Practice 2,PER,2
+2024,2,Jeddah,False,True,False,Practice 2,LEC,2
+2024,2,Jeddah,False,True,False,Practice 2,PIA,2
+2024,2,Jeddah,False,True,False,Practice 2,ALO,2
+2024,2,Jeddah,False,True,False,Practice 2,RUS,0
+2024,2,Jeddah,False,True,False,Practice 2,BEA,0
+2024,2,Jeddah,False,True,False,Practice 2,NOR,1
+2024,2,Jeddah,False,True,False,Practice 2,HAM,0
+2024,2,Jeddah,False,True,False,Practice 2,HUL,2
+2024,2,Jeddah,False,True,False,Practice 2,ALB,2
+2024,2,Jeddah,False,True,False,Practice 2,MAG,2
+2024,2,Jeddah,False,True,False,Practice 2,OCO,2
+2024,2,Jeddah,False,True,False,Practice 2,SAR,2
+2024,2,Jeddah,False,True,False,Practice 2,TSU,2
+2024,2,Jeddah,False,True,False,Practice 2,RIC,2
+2024,2,Jeddah,False,True,False,Practice 2,BOT,2
+2024,2,Jeddah,False,True,False,Practice 2,ZHO,2
+2024,2,Jeddah,False,True,False,Practice 2,STR,2
+2024,2,Jeddah,False,True,False,Practice 2,GAS,2
+2024,3,Melbourne,False,False,False,Practice 2,SAI,0
+2024,3,Melbourne,False,False,False,Practice 2,LEC,1
+2024,3,Melbourne,False,False,False,Practice 2,NOR,2
+2024,3,Melbourne,False,False,False,Practice 2,PIA,2
+2024,3,Melbourne,False,False,False,Practice 2,PER,2
+2024,3,Melbourne,False,False,False,Practice 2,STR,2
+2024,3,Melbourne,False,False,False,Practice 2,TSU,2
+2024,3,Melbourne,False,False,False,Practice 2,ALO,2
+2024,3,Melbourne,False,False,False,Practice 2,HUL,2
+2024,3,Melbourne,False,False,False,Practice 2,MAG,2
+2024,3,Melbourne,False,False,False,Practice 2,ALB,0
+2024,3,Melbourne,False,False,False,Practice 2,RIC,2
+2024,3,Melbourne,False,False,False,Practice 2,GAS,3
+2024,3,Melbourne,False,False,False,Practice 2,BOT,3
+2024,3,Melbourne,False,False,False,Practice 2,ZHO,1
+2024,3,Melbourne,False,False,False,Practice 2,OCO,3
+2024,3,Melbourne,False,False,False,Practice 2,RUS,1
+2024,3,Melbourne,False,False,False,Practice 2,HAM,0
+2024,3,Melbourne,False,False,False,Practice 2,VER,1
+2025,4,Sakhir,False,False,False,Practice 2,PIA,3
+2025,4,Sakhir,False,False,False,Practice 2,RUS,2
+2025,4,Sakhir,False,False,False,Practice 2,NOR,2
+2025,4,Sakhir,False,False,False,Practice 2,LEC,2
+2025,4,Sakhir,False,False,False,Practice 2,HAM,0
+2025,4,Sakhir,False,False,False,Practice 2,VER,2
+2025,4,Sakhir,False,False,False,Practice 2,GAS,0
+2025,4,Sakhir,False,False,False,Practice 2,OCO,2
+2025,4,Sakhir,False,False,False,Practice 2,TSU,2
+2025,4,Sakhir,False,False,False,Practice 2,BEA,2
+2025,4,Sakhir,False,False,False,Practice 2,ANT,2
+2025,4,Sakhir,False,False,False,Practice 2,ALB,3
+2025,4,Sakhir,False,False,False,Practice 2,HAD,2
+2025,4,Sakhir,False,False,False,Practice 2,DOO,2
+2025,4,Sakhir,False,False,False,Practice 2,ALO,2
+2025,4,Sakhir,False,False,False,Practice 2,LAW,2
+2025,4,Sakhir,False,False,False,Practice 2,STR,2
+2025,4,Sakhir,False,False,False,Practice 2,BOR,2
+2025,4,Sakhir,False,False,False,Practice 2,SAI,2
+2025,4,Sakhir,False,False,False,Practice 2,HUL,0
+2024,4,Suzuka,False,False,False,Practice 3,VER,2
+2024,4,Suzuka,False,False,False,Practice 3,PER,2
+2024,4,Suzuka,False,False,False,Practice 3,SAI,2
+2024,4,Suzuka,False,False,False,Practice 3,LEC,2
+2024,4,Suzuka,False,False,False,Practice 3,NOR,0
+2024,4,Suzuka,False,False,False,Practice 3,ALO,2
+2024,4,Suzuka,False,False,False,Practice 3,RUS,2
+2024,4,Suzuka,False,False,False,Practice 3,PIA,2
+2024,4,Suzuka,False,False,False,Practice 3,HAM,1
+2024,4,Suzuka,False,False,False,Practice 3,TSU,1
+2024,4,Suzuka,False,False,False,Practice 3,HUL,2
+2024,4,Suzuka,False,False,False,Practice 3,STR,1
+2024,4,Suzuka,False,False,False,Practice 3,MAG,2
+2024,4,Suzuka,False,False,False,Practice 3,BOT,2
+2024,4,Suzuka,False,False,False,Practice 3,OCO,1
+2024,4,Suzuka,False,False,False,Practice 3,GAS,0
+2024,4,Suzuka,False,False,False,Practice 3,SAR,0
+2024,4,Suzuka,False,False,False,Practice 3,ZHO,2
+2024,4,Suzuka,False,False,False,Practice 3,RIC,1
+2024,4,Suzuka,False,False,False,Practice 3,ALB,1
+2024,5,Shanghai,True,False,False,Practice 1,VER,2
+2024,5,Shanghai,True,False,False,Practice 1,NOR,0
+2024,5,Shanghai,True,False,False,Practice 1,PER,2
+2024,5,Shanghai,True,False,False,Practice 1,LEC,1
+2024,5,Shanghai,True,False,False,Practice 1,SAI,1
+2024,5,Shanghai,True,False,False,Practice 1,RUS,2
+2024,5,Shanghai,True,False,False,Practice 1,ALO,1
+2024,5,Shanghai,True,False,False,Practice 1,PIA,2
+2024,5,Shanghai,True,False,False,Practice 1,HAM,0
+2024,5,Shanghai,True,False,False,Practice 1,HUL,2
+2024,5,Shanghai,True,False,False,Practice 1,OCO,1
+2024,5,Shanghai,True,False,False,Practice 1,ALB,1
+2024,5,Shanghai,True,False,False,Practice 1,GAS,1
+2024,5,Shanghai,True,False,False,Practice 1,ZHO,1
+2024,5,Shanghai,True,False,False,Practice 1,STR,0
+2024,5,Shanghai,True,False,False,Practice 1,MAG,2
+2024,5,Shanghai,True,False,False,Practice 1,SAR,1
+2024,5,Shanghai,True,False,False,Practice 1,RIC,1
+2024,5,Shanghai,True,False,False,Practice 1,TSU,1
+2024,5,Shanghai,True,False,False,Practice 1,BOT,2
+2024,6,Miami,True,True,False,Practice 1,NOR,1
+2024,6,Miami,True,True,False,Practice 1,VER,2
+2024,6,Miami,True,True,False,Practice 1,LEC,0
+2024,6,Miami,True,True,False,Practice 1,PER,2
+2024,6,Miami,True,True,False,Practice 1,SAI,1
+2024,6,Miami,True,True,False,Practice 1,HAM,0
+2024,6,Miami,True,True,False,Practice 1,TSU,0
+2024,6,Miami,True,True,False,Practice 1,RUS,1
+2024,6,Miami,True,True,False,Practice 1,ALO,2
+2024,6,Miami,True,True,False,Practice 1,OCO,2
+2024,6,Miami,True,True,False,Practice 1,HUL,2
+2024,6,Miami,True,True,False,Practice 1,GAS,2
+2024,6,Miami,True,True,False,Practice 1,PIA,1
+2024,6,Miami,True,True,False,Practice 1,ZHO,0
+2024,6,Miami,True,True,False,Practice 1,RIC,2
+2024,6,Miami,True,True,False,Practice 1,BOT,0
+2024,6,Miami,True,True,False,Practice 1,STR,2
+2024,6,Miami,True,True,False,Practice 1,ALB,1
+2024,6,Miami,True,True,False,Practice 1,MAG,2
+2024,6,Miami,True,True,False,Practice 1,SAR,1
+2024,7,Imola,False,False,False,Practice 2,VER,1
+2024,7,Imola,False,False,False,Practice 2,NOR,2
+2024,7,Imola,False,False,False,Practice 2,LEC,0
+2024,7,Imola,False,False,False,Practice 2,PIA,2
+2024,7,Imola,False,False,False,Practice 2,SAI,0
+2024,7,Imola,False,False,False,Practice 2,HAM,0
+2024,7,Imola,False,False,False,Practice 2,RUS,2
+2024,7,Imola,False,False,False,Practice 2,PER,0
+2024,7,Imola,False,False,False,Practice 2,STR,2
+2024,7,Imola,False,False,False,Practice 2,TSU,2
+2024,7,Imola,False,False,False,Practice 2,HUL,2
+2024,7,Imola,False,False,False,Practice 2,MAG,2
+2024,7,Imola,False,False,False,Practice 2,RIC,2
+2024,7,Imola,False,False,False,Practice 2,OCO,2
+2024,7,Imola,False,False,False,Practice 2,ZHO,3
+2024,7,Imola,False,False,False,Practice 2,GAS,2
+2024,7,Imola,False,False,False,Practice 2,SAR,2
+2024,7,Imola,False,False,False,Practice 2,BOT,2
+2024,7,Imola,False,False,False,Practice 2,ALO,2
+2024,7,Imola,False,False,False,Practice 2,ALB,2
+2024,8,Monaco,False,True,False,Practice 2,LEC,0
+2024,8,Monaco,False,True,False,Practice 2,PIA,3
+2024,8,Monaco,False,True,False,Practice 2,SAI,1
+2024,8,Monaco,False,True,False,Practice 2,NOR,3
+2024,8,Monaco,False,True,False,Practice 2,RUS,0
+2024,8,Monaco,False,True,False,Practice 2,VER,0
+2024,8,Monaco,False,True,False,Practice 2,HAM,2
+2024,8,Monaco,False,True,False,Practice 2,TSU,3
+2024,8,Monaco,False,True,False,Practice 2,ALB,3
+2024,8,Monaco,False,True,False,Practice 2,GAS,2
+2024,8,Monaco,False,True,False,Practice 2,ALO,2
+2024,8,Monaco,False,True,False,Practice 2,RIC,3
+2024,8,Monaco,False,True,False,Practice 2,BOT,1
+2024,8,Monaco,False,True,False,Practice 2,STR,1
+2024,8,Monaco,False,True,False,Practice 2,SAR,2
+2024,8,Monaco,False,True,False,Practice 2,ZHO,3
+2024,8,Monaco,False,True,False,Practice 2,OCO,0
+2024,8,Monaco,False,True,False,Practice 2,PER,1
+2024,8,Monaco,False,True,False,Practice 2,HUL,2
+2024,8,Monaco,False,True,False,Practice 2,MAG,2
+2024,9,Montréal,False,False,True,Practice 3,VER,2
+2024,9,Montréal,False,False,True,Practice 3,NOR,0
+2024,9,Montréal,False,False,True,Practice 3,RUS,1
+2024,9,Montréal,False,False,True,Practice 3,HAM,1
+2024,9,Montréal,False,False,True,Practice 3,PIA,0
+2024,9,Montréal,False,False,True,Practice 3,ALO,3
+2024,9,Montréal,False,False,True,Practice 3,STR,2
+2024,9,Montréal,False,False,True,Practice 3,RIC,1
+2024,9,Montréal,False,False,True,Practice 3,GAS,2
+2024,9,Montréal,False,False,True,Practice 3,OCO,2
+2024,9,Montréal,False,False,True,Practice 3,HUL,2
+2024,9,Montréal,False,False,True,Practice 3,MAG,2
+2024,9,Montréal,False,False,True,Practice 3,BOT,1
+2024,9,Montréal,False,False,True,Practice 3,TSU,0
+2024,9,Montréal,False,False,True,Practice 3,ZHO,0
+2024,9,Montréal,False,False,True,Practice 3,SAI,1
+2024,9,Montréal,False,False,True,Practice 3,ALB,1
+2024,9,Montréal,False,False,True,Practice 3,PER,2
+2024,9,Montréal,False,False,True,Practice 3,LEC,0
+2024,9,Montréal,False,False,True,Practice 3,SAR,1
+2024,10,Barcelona,False,False,True,Practice 2,VER,3
+2024,10,Barcelona,False,False,True,Practice 2,NOR,2
+2024,10,Barcelona,False,False,True,Practice 2,HAM,2
+2024,10,Barcelona,False,False,True,Practice 2,RUS,0
+2024,10,Barcelona,False,False,True,Practice 2,LEC,1
+2024,10,Barcelona,False,False,True,Practice 2,SAI,2
+2024,10,Barcelona,False,False,True,Practice 2,PIA,2
+2024,10,Barcelona,False,False,True,Practice 2,PER,2
+2024,10,Barcelona,False,False,True,Practice 2,GAS,2
+2024,10,Barcelona,False,False,True,Practice 2,OCO,0
+2024,10,Barcelona,False,False,True,Practice 2,HUL,2
+2024,10,Barcelona,False,False,True,Practice 2,ALO,2
+2024,10,Barcelona,False,False,True,Practice 2,ZHO,1
+2024,10,Barcelona,False,False,True,Practice 2,STR,0
+2024,10,Barcelona,False,False,True,Practice 2,RIC,2
+2024,10,Barcelona,False,False,True,Practice 2,BOT,2
+2024,10,Barcelona,False,False,True,Practice 2,MAG,2
+2024,10,Barcelona,False,False,True,Practice 2,ALB,2
+2024,10,Barcelona,False,False,True,Practice 2,TSU,2
+2024,10,Barcelona,False,False,True,Practice 2,SAR,2
+2024,11,Spielberg,True,False,True,Practice 1,RUS,3
+2024,11,Spielberg,True,False,True,Practice 1,PIA,2
+2024,11,Spielberg,True,False,True,Practice 1,SAI,1
+2024,11,Spielberg,True,False,True,Practice 1,HAM,2
+2024,11,Spielberg,True,False,True,Practice 1,VER,0
+2024,11,Spielberg,True,False,True,Practice 1,HUL,1
+2024,11,Spielberg,True,False,True,Practice 1,PER,1
+2024,11,Spielberg,True,False,True,Practice 1,MAG,1
+2024,11,Spielberg,True,False,True,Practice 1,RIC,1
+2024,11,Spielberg,True,False,True,Practice 1,GAS,2
+2024,11,Spielberg,True,False,True,Practice 1,LEC,1
+2024,11,Spielberg,True,False,True,Practice 1,OCO,2
+2024,11,Spielberg,True,False,True,Practice 1,STR,2
+2024,11,Spielberg,True,False,True,Practice 1,TSU,0
+2024,11,Spielberg,True,False,True,Practice 1,ALB,0
+2024,11,Spielberg,True,False,True,Practice 1,BOT,2
+2024,11,Spielberg,True,False,True,Practice 1,ZHO,2
+2024,11,Spielberg,True,False,True,Practice 1,ALO,1
+2024,11,Spielberg,True,False,True,Practice 1,SAR,1
+2024,11,Spielberg,True,False,True,Practice 1,NOR,0
+2024,12,Silverstone,False,False,True,Practice 2,HAM,2
+2024,12,Silverstone,False,False,True,Practice 2,VER,2
+2024,12,Silverstone,False,False,True,Practice 2,NOR,2
+2024,12,Silverstone,False,False,True,Practice 2,PIA,1
+2024,12,Silverstone,False,False,True,Practice 2,SAI,0
+2024,12,Silverstone,False,False,True,Practice 2,HUL,2
+2024,12,Silverstone,False,False,True,Practice 2,STR,1
+2024,12,Silverstone,False,False,True,Practice 2,ALO,2
+2024,12,Silverstone,False,False,True,Practice 2,ALB,2
+2024,12,Silverstone,False,False,True,Practice 2,TSU,2
+2024,12,Silverstone,False,False,True,Practice 2,SAR,2
+2024,12,Silverstone,False,False,True,Practice 2,MAG,0
+2024,12,Silverstone,False,False,True,Practice 2,RIC,2
+2024,12,Silverstone,False,False,True,Practice 2,LEC,2
+2024,12,Silverstone,False,False,True,Practice 2,BOT,0
+2024,12,Silverstone,False,False,True,Practice 2,OCO,0
+2024,12,Silverstone,False,False,True,Practice 2,PER,1
+2024,12,Silverstone,False,False,True,Practice 2,ZHO,1
+2024,12,Silverstone,False,False,True,Practice 2,RUS,2
+2024,12,Silverstone,False,False,True,Practice 2,GAS,1
+2024,13,Budapest,False,False,False,Practice 2,PIA,0
+2024,13,Budapest,False,False,False,Practice 2,NOR,2
+2024,13,Budapest,False,False,False,Practice 2,HAM,2
+2024,13,Budapest,False,False,False,Practice 2,LEC,0
+2024,13,Budapest,False,False,False,Practice 2,VER,2
+2024,13,Budapest,False,False,False,Practice 2,SAI,2
+2024,13,Budapest,False,False,False,Practice 2,PER,2
+2024,13,Budapest,False,False,False,Practice 2,RUS,2
+2024,13,Budapest,False,False,False,Practice 2,TSU,0
+2024,13,Budapest,False,False,False,Practice 2,STR,2
+2024,13,Budapest,False,False,False,Practice 2,ALO,2
+2024,13,Budapest,False,False,False,Practice 2,RIC,2
+2024,13,Budapest,False,False,False,Practice 2,HUL,1
+2024,13,Budapest,False,False,False,Practice 2,ALB,2
+2024,13,Budapest,False,False,False,Practice 2,MAG,2
+2024,13,Budapest,False,False,False,Practice 2,BOT,1
+2024,13,Budapest,False,False,False,Practice 2,SAR,2
+2024,13,Budapest,False,False,False,Practice 2,OCO,1
+2024,13,Budapest,False,False,False,Practice 2,ZHO,2
+2024,13,Budapest,False,False,False,Practice 2,GAS,1
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,HAM,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,PIA,3
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,LEC,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,VER,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,NOR,1
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,SAI,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,PER,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,ALO,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,OCO,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,RIC,1
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,STR,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,ALB,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,GAS,1
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,MAG,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,BOT,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,TSU,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,SAR,1
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,HUL,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,ZHO,2
+2024,14,Spa-Francorchamps,False,False,False,Practice 2,RUS,2
+2024,15,Zandvoort,False,False,False,Practice 2,NOR,3
+2024,15,Zandvoort,False,False,False,Practice 2,VER,2
+2024,15,Zandvoort,False,False,False,Practice 2,LEC,0
+2024,15,Zandvoort,False,False,False,Practice 2,PIA,3
+2024,15,Zandvoort,False,False,False,Practice 2,SAI,0
+2024,15,Zandvoort,False,False,False,Practice 2,PER,2
+2024,15,Zandvoort,False,False,False,Practice 2,RUS,2
+2024,15,Zandvoort,False,False,False,Practice 2,HAM,1
+2024,15,Zandvoort,False,False,False,Practice 2,GAS,3
+2024,15,Zandvoort,False,False,False,Practice 2,ALO,2
+2024,15,Zandvoort,False,False,False,Practice 2,HUL,0
+2024,15,Zandvoort,False,False,False,Practice 2,RIC,3
+2024,15,Zandvoort,False,False,False,Practice 2,STR,3
+2024,15,Zandvoort,False,False,False,Practice 2,ALB,2
+2024,15,Zandvoort,False,False,False,Practice 2,OCO,3
+2024,15,Zandvoort,False,False,False,Practice 2,SAR,2
+2024,15,Zandvoort,False,False,False,Practice 2,TSU,3
+2024,15,Zandvoort,False,False,False,Practice 2,MAG,3
+2024,15,Zandvoort,False,False,False,Practice 2,BOT,2
+2024,15,Zandvoort,False,False,False,Practice 2,ZHO,3
+2024,16,Monza,False,False,False,Practice 2,LEC,2
+2024,16,Monza,False,False,False,Practice 2,PIA,2
+2024,16,Monza,False,False,False,Practice 2,NOR,2
+2024,16,Monza,False,False,False,Practice 2,SAI,2
+2024,16,Monza,False,False,False,Practice 2,HAM,0
+2024,16,Monza,False,False,False,Practice 2,VER,2
+2024,16,Monza,False,False,False,Practice 2,RUS,1
+2024,16,Monza,False,False,False,Practice 2,PER,1
+2024,16,Monza,False,False,False,Practice 2,ALB,2
+2024,16,Monza,False,False,False,Practice 2,MAG,0
+2024,16,Monza,False,False,False,Practice 2,ALO,2
+2024,16,Monza,False,False,False,Practice 2,COL,1
+2024,16,Monza,False,False,False,Practice 2,RIC,1
+2024,16,Monza,False,False,False,Practice 2,OCO,0
+2024,16,Monza,False,False,False,Practice 2,GAS,0
+2024,16,Monza,False,False,False,Practice 2,BOT,2
+2024,16,Monza,False,False,False,Practice 2,HUL,2
+2024,16,Monza,False,False,False,Practice 2,ZHO,0
+2024,16,Monza,False,False,False,Practice 2,STR,2
+2024,16,Monza,False,False,False,Practice 2,TSU,1
+2024,17,Baku,False,True,False,Practice 2,PIA,0
+2024,17,Baku,False,True,False,Practice 2,LEC,0
+2024,17,Baku,False,True,False,Practice 2,RUS,2
+2024,17,Baku,False,True,False,Practice 2,NOR,1
+2024,17,Baku,False,True,False,Practice 2,VER,1
+2024,17,Baku,False,True,False,Practice 2,ALO,0
+2024,17,Baku,False,True,False,Practice 2,ALB,1
+2024,17,Baku,False,True,False,Practice 2,COL,2
+2024,17,Baku,False,True,False,Practice 2,HAM,0
+2024,17,Baku,False,True,False,Practice 2,BEA,1
+2024,17,Baku,False,True,False,Practice 2,HUL,1
+2024,17,Baku,False,True,False,Practice 2,GAS,1
+2024,17,Baku,False,True,False,Practice 2,RIC,2
+2024,17,Baku,False,True,False,Practice 2,ZHO,0
+2024,17,Baku,False,True,False,Practice 2,OCO,0
+2024,17,Baku,False,True,False,Practice 2,BOT,1
+2024,17,Baku,False,True,False,Practice 2,PER,1
+2024,17,Baku,False,True,False,Practice 2,SAI,1
+2024,17,Baku,False,True,False,Practice 2,STR,0
+2024,17,Baku,False,True,False,Practice 2,TSU,2
+2024,18,Marina Bay,False,True,False,Practice 2,NOR,1
+2024,18,Marina Bay,False,True,False,Practice 2,VER,1
+2024,18,Marina Bay,False,True,False,Practice 2,PIA,0
+2024,18,Marina Bay,False,True,False,Practice 2,RUS,0
+2024,18,Marina Bay,False,True,False,Practice 2,LEC,1
+2024,18,Marina Bay,False,True,False,Practice 2,HAM,1
+2024,18,Marina Bay,False,True,False,Practice 2,SAI,1
+2024,18,Marina Bay,False,True,False,Practice 2,ALO,1
+2024,18,Marina Bay,False,True,False,Practice 2,HUL,1
+2024,18,Marina Bay,False,True,False,Practice 2,PER,1
+2024,18,Marina Bay,False,True,False,Practice 2,COL,1
+2024,18,Marina Bay,False,True,False,Practice 2,TSU,1
+2024,18,Marina Bay,False,True,False,Practice 2,OCO,1
+2024,18,Marina Bay,False,True,False,Practice 2,STR,1
+2024,18,Marina Bay,False,True,False,Practice 2,ZHO,1
+2024,18,Marina Bay,False,True,False,Practice 2,BOT,1
+2024,18,Marina Bay,False,True,False,Practice 2,GAS,1
+2024,18,Marina Bay,False,True,False,Practice 2,RIC,2
+2024,18,Marina Bay,False,True,False,Practice 2,MAG,1
+2024,18,Marina Bay,False,True,False,Practice 2,ALB,1
+2024,19,Austin,True,False,False,Practice 1,LEC,1
+2024,19,Austin,True,False,False,Practice 1,SAI,1
+2024,19,Austin,True,False,False,Practice 1,VER,1
+2024,19,Austin,True,False,False,Practice 1,NOR,1
+2024,19,Austin,True,False,False,Practice 1,PIA,2
+2024,19,Austin,True,False,False,Practice 1,RUS,2
+2024,19,Austin,True,False,False,Practice 1,PER,1
+2024,19,Austin,True,False,False,Practice 1,HUL,2
+2024,19,Austin,True,False,False,Practice 1,LAW,2
+2024,19,Austin,True,False,False,Practice 1,COL,3
+2024,19,Austin,True,False,False,Practice 1,MAG,2
+2024,19,Austin,True,False,False,Practice 1,GAS,0
+2024,19,Austin,True,False,False,Practice 1,ALO,1
+2024,19,Austin,True,False,False,Practice 1,TSU,1
+2024,19,Austin,True,False,False,Practice 1,STR,0
+2024,19,Austin,True,False,False,Practice 1,ALB,1
+2024,19,Austin,True,False,False,Practice 1,BOT,2
+2024,19,Austin,True,False,False,Practice 1,OCO,1
+2024,19,Austin,True,False,False,Practice 1,ZHO,1
+2024,19,Austin,True,False,False,Practice 1,HAM,0
+2024,20,Mexico City,False,False,False,Practice 2,SAI,3
+2024,20,Mexico City,False,False,False,Practice 2,NOR,3
+2024,20,Mexico City,False,False,False,Practice 2,LEC,3
+2024,20,Mexico City,False,False,False,Practice 2,HAM,3
+2024,20,Mexico City,False,False,False,Practice 2,RUS,0
+2024,20,Mexico City,False,False,False,Practice 2,VER,0
+2024,20,Mexico City,False,False,False,Practice 2,MAG,3
+2024,20,Mexico City,False,False,False,Practice 2,PIA,3
+2024,20,Mexico City,False,False,False,Practice 2,HUL,3
+2024,20,Mexico City,False,False,False,Practice 2,GAS,3
+2024,20,Mexico City,False,False,False,Practice 2,STR,3
+2024,20,Mexico City,False,False,False,Practice 2,COL,3
+2024,20,Mexico City,False,False,False,Practice 2,OCO,3
+2024,20,Mexico City,False,False,False,Practice 2,BOT,3
+2024,20,Mexico City,False,False,False,Practice 2,ZHO,3
+2024,20,Mexico City,False,False,False,Practice 2,LAW,3
+2024,20,Mexico City,False,False,False,Practice 2,PER,3
+2024,20,Mexico City,False,False,False,Practice 2,ALO,3
+2024,20,Mexico City,False,False,False,Practice 2,ALB,0
+2024,20,Mexico City,False,False,False,Practice 2,TSU,3
+2024,21,São Paulo,True,False,True,Practice 1,VER,2
+2024,21,São Paulo,True,False,True,Practice 1,OCO,0
+2024,21,São Paulo,True,False,True,Practice 1,GAS,2
+2024,21,São Paulo,True,False,True,Practice 1,RUS,2
+2024,21,São Paulo,True,False,True,Practice 1,LEC,1
+2024,21,São Paulo,True,False,True,Practice 1,NOR,0
+2024,21,São Paulo,True,False,True,Practice 1,TSU,2
+2024,21,São Paulo,True,False,True,Practice 1,PIA,2
+2024,21,São Paulo,True,False,True,Practice 1,LAW,1
+2024,21,São Paulo,True,False,True,Practice 1,HAM,2
+2024,21,São Paulo,True,False,True,Practice 1,PER,2
+2024,21,São Paulo,True,False,True,Practice 1,BEA,0
+2024,21,São Paulo,True,False,True,Practice 1,BOT,2
+2024,21,São Paulo,True,False,True,Practice 1,ALO,0
+2024,21,São Paulo,True,False,True,Practice 1,ZHO,1
+2024,21,São Paulo,True,False,True,Practice 1,SAI,1
+2024,21,São Paulo,True,False,True,Practice 1,COL,2
+2024,21,São Paulo,True,False,True,Practice 1,ALB,2
+2024,21,São Paulo,True,False,True,Practice 1,STR,1
+2024,21,São Paulo,True,False,True,Practice 1,HUL,1
+2024,22,Las Vegas,False,True,False,Practice 2,RUS,2
+2024,22,Las Vegas,False,True,False,Practice 2,HAM,1
+2024,22,Las Vegas,False,True,False,Practice 2,SAI,1
+2024,22,Las Vegas,False,True,False,Practice 2,LEC,1
+2024,22,Las Vegas,False,True,False,Practice 2,VER,1
+2024,22,Las Vegas,False,True,False,Practice 2,NOR,1
+2024,22,Las Vegas,False,True,False,Practice 2,PIA,2
+2024,22,Las Vegas,False,True,False,Practice 2,HUL,1
+2024,22,Las Vegas,False,True,False,Practice 2,TSU,1
+2024,22,Las Vegas,False,True,False,Practice 2,PER,1
+2024,22,Las Vegas,False,True,False,Practice 2,ALO,1
+2024,22,Las Vegas,False,True,False,Practice 2,MAG,0
+2024,22,Las Vegas,False,True,False,Practice 2,ZHO,1
+2024,22,Las Vegas,False,True,False,Practice 2,COL,1
+2024,22,Las Vegas,False,True,False,Practice 2,STR,1
+2024,22,Las Vegas,False,True,False,Practice 2,LAW,1
+2024,22,Las Vegas,False,True,False,Practice 2,OCO,0
+2024,22,Las Vegas,False,True,False,Practice 2,BOT,1
+2024,22,Las Vegas,False,True,False,Practice 2,ALB,0
+2024,22,Las Vegas,False,True,False,Practice 2,GAS,2
+2024,23,Lusail,True,False,False,Practice 1,VER,2
+2024,23,Lusail,True,False,False,Practice 1,LEC,1
+2024,23,Lusail,True,False,False,Practice 1,PIA,2
+2024,23,Lusail,True,False,False,Practice 1,RUS,2
+2024,23,Lusail,True,False,False,Practice 1,GAS,0
+2024,23,Lusail,True,False,False,Practice 1,SAI,1
+2024,23,Lusail,True,False,False,Practice 1,ALO,1
+2024,23,Lusail,True,False,False,Practice 1,ZHO,3
+2024,23,Lusail,True,False,False,Practice 1,MAG,2
+2024,23,Lusail,True,False,False,Practice 1,NOR,0
+2024,23,Lusail,True,False,False,Practice 1,BOT,1
+2024,23,Lusail,True,False,False,Practice 1,HAM,3
+2024,23,Lusail,True,False,False,Practice 1,TSU,2
+2024,23,Lusail,True,False,False,Practice 1,LAW,2
+2024,23,Lusail,True,False,False,Practice 1,ALB,3
+2024,23,Lusail,True,False,False,Practice 1,HUL,2
+2024,23,Lusail,True,False,False,Practice 1,PER,0
+2024,23,Lusail,True,False,False,Practice 1,STR,1
+2024,23,Lusail,True,False,False,Practice 1,COL,0
+2024,23,Lusail,True,False,False,Practice 1,OCO,1
+2024,24,Yas Island,False,False,False,Practice 2,NOR,2
+2024,24,Yas Island,False,False,False,Practice 2,SAI,2
+2024,24,Yas Island,False,False,False,Practice 2,LEC,2
+2024,24,Yas Island,False,False,False,Practice 2,HAM,0
+2024,24,Yas Island,False,False,False,Practice 2,RUS,2
+2024,24,Yas Island,False,False,False,Practice 2,VER,2
+2024,24,Yas Island,False,False,False,Practice 2,GAS,2
+2024,24,Yas Island,False,False,False,Practice 2,HUL,2
+2024,24,Yas Island,False,False,False,Practice 2,ALO,2
+2024,24,Yas Island,False,False,False,Practice 2,PIA,2
+2024,24,Yas Island,False,False,False,Practice 2,ALB,1
+2024,24,Yas Island,False,False,False,Practice 2,TSU,2
+2024,24,Yas Island,False,False,False,Practice 2,ZHO,2
+2024,24,Yas Island,False,False,False,Practice 2,STR,3
+2024,24,Yas Island,False,False,False,Practice 2,DOO,1
+2024,24,Yas Island,False,False,False,Practice 2,MAG,2
+2024,24,Yas Island,False,False,False,Practice 2,LAW,2
+2024,24,Yas Island,False,False,False,Practice 2,BOT,2
+2024,24,Yas Island,False,False,False,Practice 2,COL,0
+2024,24,Yas Island,False,False,False,Practice 2,PER,2
+2025,1,Melbourne,False,False,True,Practice 2,NOR,2
+2025,1,Melbourne,False,False,True,Practice 2,VER,2
+2025,1,Melbourne,False,False,True,Practice 2,RUS,2
+2025,1,Melbourne,False,False,True,Practice 2,ANT,2
+2025,1,Melbourne,False,False,True,Practice 2,ALB,1
+2025,1,Melbourne,False,False,True,Practice 2,STR,2
+2025,1,Melbourne,False,False,True,Practice 2,HUL,0
+2025,1,Melbourne,False,False,True,Practice 2,LEC,2
+2025,1,Melbourne,False,False,True,Practice 2,PIA,2
+2025,1,Melbourne,False,False,True,Practice 2,HAM,2
+2025,1,Melbourne,False,False,True,Practice 2,GAS,2
+2025,1,Melbourne,False,False,True,Practice 2,TSU,2
+2025,1,Melbourne,False,False,True,Practice 2,OCO,0
+2025,1,Melbourne,False,False,True,Practice 2,BEA,0
+2025,1,Melbourne,False,False,True,Practice 2,LAW,2
+2025,1,Melbourne,False,False,True,Practice 2,BOR,2
+2025,1,Melbourne,False,False,True,Practice 2,ALO,2
+2025,1,Melbourne,False,False,True,Practice 2,SAI,2
+2025,1,Melbourne,False,False,True,Practice 2,DOO,3
+2025,1,Melbourne,False,False,True,Practice 2,HAD,2
+2025,2,Shanghai,True,False,False,Practice 1,PIA,0
+2025,2,Shanghai,True,False,False,Practice 1,NOR,1
+2025,2,Shanghai,True,False,False,Practice 1,RUS,2
+2025,2,Shanghai,True,False,False,Practice 1,VER,2
+2025,2,Shanghai,True,False,False,Practice 1,OCO,2
+2025,2,Shanghai,True,False,False,Practice 1,ANT,3
+2025,2,Shanghai,True,False,False,Practice 1,ALB,2
+2025,2,Shanghai,True,False,False,Practice 1,BEA,2
+2025,2,Shanghai,True,False,False,Practice 1,STR,1
+2025,2,Shanghai,True,False,False,Practice 1,SAI,2
+2025,2,Shanghai,True,False,False,Practice 1,HAD,1
+2025,2,Shanghai,True,False,False,Practice 1,LAW,1
+2025,2,Shanghai,True,False,False,Practice 1,DOO,2
+2025,2,Shanghai,True,False,False,Practice 1,BOR,0
+2025,2,Shanghai,True,False,False,Practice 1,HUL,0
+2025,2,Shanghai,True,False,False,Practice 1,TSU,2
+2025,2,Shanghai,True,False,False,Practice 1,ALO,0
+2025,2,Shanghai,True,False,False,Practice 1,LEC,1
+2025,2,Shanghai,True,False,False,Practice 1,HAM,0
+2025,2,Shanghai,True,False,False,Practice 1,GAS,1
+2025,3,Suzuka,False,False,False,Practice 3,VER,2
+2025,3,Suzuka,False,False,False,Practice 3,NOR,0
+2025,3,Suzuka,False,False,False,Practice 3,PIA,0
+2025,3,Suzuka,False,False,False,Practice 3,LEC,0
+2025,3,Suzuka,False,False,False,Practice 3,RUS,0
+2025,3,Suzuka,False,False,False,Practice 3,ANT,2
+2025,3,Suzuka,False,False,False,Practice 3,HAM,0
+2025,3,Suzuka,False,False,False,Practice 3,HAD,0
+2025,3,Suzuka,False,False,False,Practice 3,ALB,0
+2025,3,Suzuka,False,False,False,Practice 3,BEA,2
+2025,3,Suzuka,False,False,False,Practice 3,ALO,1
+2025,3,Suzuka,False,False,False,Practice 3,TSU,0
+2025,3,Suzuka,False,False,False,Practice 3,GAS,0
+2025,3,Suzuka,False,False,False,Practice 3,SAI,1
+2025,3,Suzuka,False,False,False,Practice 3,DOO,0
+2025,3,Suzuka,False,False,False,Practice 3,HUL,0
+2025,3,Suzuka,False,False,False,Practice 3,LAW,2
+2025,3,Suzuka,False,False,False,Practice 3,OCO,2
+2025,3,Suzuka,False,False,False,Practice 3,BOR,0
+2025,3,Suzuka,False,False,False,Practice 3,STR,0
+2025,5,Jeddah,False,True,False,Practice 2,PIA,1
+2025,5,Jeddah,False,True,False,Practice 2,VER,2
+2025,5,Jeddah,False,True,False,Practice 2,LEC,0
+2025,5,Jeddah,False,True,False,Practice 2,NOR,0
+2025,5,Jeddah,False,True,False,Practice 2,RUS,0
+2025,5,Jeddah,False,True,False,Practice 2,ANT,0
+2025,5,Jeddah,False,True,False,Practice 2,HAM,0
+2025,5,Jeddah,False,True,False,Practice 2,SAI,1
+2025,5,Jeddah,False,True,False,Practice 2,ALB,0
+2025,5,Jeddah,False,True,False,Practice 2,HAD,0
+2025,5,Jeddah,False,True,False,Practice 2,ALO,0
+2025,5,Jeddah,False,True,False,Practice 2,LAW,0
+2025,5,Jeddah,False,True,False,Practice 2,BEA,0
+2025,5,Jeddah,False,True,False,Practice 2,OCO,0
+2025,5,Jeddah,False,True,False,Practice 2,HUL,0
+2025,5,Jeddah,False,True,False,Practice 2,STR,0
+2025,5,Jeddah,False,True,False,Practice 2,DOO,0
+2025,5,Jeddah,False,True,False,Practice 2,BOR,0
+2025,5,Jeddah,False,True,False,Practice 2,TSU,0
+2025,5,Jeddah,False,True,False,Practice 2,GAS,0
+2025,6,Miami,True,True,True,Practice 1,PIA,1
+2025,6,Miami,True,True,True,Practice 1,NOR,1
+2025,6,Miami,True,True,True,Practice 1,RUS,2
+2025,6,Miami,True,True,True,Practice 1,VER,2
+2025,6,Miami,True,True,True,Practice 1,ALB,1
+2025,6,Miami,True,True,True,Practice 1,ANT,2
+2025,6,Miami,True,True,True,Practice 1,LEC,1
+2025,6,Miami,True,True,True,Practice 1,HAM,2
+2025,6,Miami,True,True,True,Practice 1,SAI,0
+2025,6,Miami,True,True,True,Practice 1,TSU,2
+2025,6,Miami,True,True,True,Practice 1,HAD,2
+2025,6,Miami,True,True,True,Practice 1,OCO,1
+2025,6,Miami,True,True,True,Practice 1,GAS,0
+2025,6,Miami,True,True,True,Practice 1,HUL,0
+2025,6,Miami,True,True,True,Practice 1,ALO,1
+2025,6,Miami,True,True,True,Practice 1,STR,1
+2025,6,Miami,True,True,True,Practice 1,LAW,2
+2025,6,Miami,True,True,True,Practice 1,BOR,1
+2025,6,Miami,True,True,True,Practice 1,BEA,2
+2025,6,Miami,True,True,True,Practice 1,DOO,3
+2025,7,Imola,False,False,False,Practice 2,VER,0
+2025,7,Imola,False,False,False,Practice 2,NOR,1
+2025,7,Imola,False,False,False,Practice 2,PIA,2
+2025,7,Imola,False,False,False,Practice 2,HAM,1
+2025,7,Imola,False,False,False,Practice 2,ALB,1
+2025,7,Imola,False,False,False,Practice 2,LEC,1
+2025,7,Imola,False,False,False,Practice 2,RUS,0
+2025,7,Imola,False,False,False,Practice 2,SAI,2
+2025,7,Imola,False,False,False,Practice 2,HAD,1
+2025,7,Imola,False,False,False,Practice 2,TSU,1
+2025,7,Imola,False,False,False,Practice 2,ALO,0
+2025,7,Imola,False,False,False,Practice 2,HUL,2
+2025,7,Imola,False,False,False,Practice 2,GAS,2
+2025,7,Imola,False,False,False,Practice 2,LAW,0
+2025,7,Imola,False,False,False,Practice 2,STR,1
+2025,7,Imola,False,False,False,Practice 2,COL,2
+2025,7,Imola,False,False,False,Practice 2,BEA,2
+2025,7,Imola,False,False,False,Practice 2,BOR,1
+2025,7,Imola,False,False,False,Practice 2,ANT,2
+2025,7,Imola,False,False,False,Practice 2,OCO,0
+2025,8,Monaco,False,True,False,Practice 2,NOR,2
+2025,8,Monaco,False,True,False,Practice 2,LEC,1
+2025,8,Monaco,False,True,False,Practice 2,PIA,0
+2025,8,Monaco,False,True,False,Practice 2,VER,1
+2025,8,Monaco,False,True,False,Practice 2,HAM,1
+2025,8,Monaco,False,True,False,Practice 2,HAD,0
+2025,8,Monaco,False,True,False,Practice 2,OCO,2
+2025,8,Monaco,False,True,False,Practice 2,LAW,1
+2025,8,Monaco,False,True,False,Practice 2,ALB,2
+2025,8,Monaco,False,True,False,Practice 2,SAI,1
+2025,8,Monaco,False,True,False,Practice 2,RUS,1
+2025,8,Monaco,False,True,False,Practice 2,BEA,2
+2025,8,Monaco,False,True,False,Practice 2,COL,0
+2025,8,Monaco,False,True,False,Practice 2,BOR,1
+2025,8,Monaco,False,True,False,Practice 2,STR,1
+2025,8,Monaco,False,True,False,Practice 2,HUL,1
+2025,8,Monaco,False,True,False,Practice 2,TSU,2
+2025,8,Monaco,False,True,False,Practice 2,ANT,2
+2025,8,Monaco,False,True,False,Practice 2,ALO,1
+2025,8,Monaco,False,True,False,Practice 2,GAS,1
+2025,9,Barcelona,False,False,False,Practice 2,PIA,2
+2025,9,Barcelona,False,False,False,Practice 2,NOR,3
+2025,9,Barcelona,False,False,False,Practice 2,LEC,1
+2025,9,Barcelona,False,False,False,Practice 2,RUS,2
+2025,9,Barcelona,False,False,False,Practice 2,HUL,0
+2025,9,Barcelona,False,False,False,Practice 2,HAM,2
+2025,9,Barcelona,False,False,False,Practice 2,HAD,2
+2025,9,Barcelona,False,False,False,Practice 2,GAS,3
+2025,9,Barcelona,False,False,False,Practice 2,ALO,2
+2025,9,Barcelona,False,False,False,Practice 2,VER,2
+2025,9,Barcelona,False,False,False,Practice 2,LAW,2
+2025,9,Barcelona,False,False,False,Practice 2,BOR,2
+2025,9,Barcelona,False,False,False,Practice 2,TSU,2
+2025,9,Barcelona,False,False,False,Practice 2,SAI,3
+2025,9,Barcelona,False,False,False,Practice 2,COL,2
+2025,9,Barcelona,False,False,False,Practice 2,OCO,0
+2025,9,Barcelona,False,False,False,Practice 2,BEA,0
+2025,9,Barcelona,False,False,False,Practice 2,ANT,2
+2025,9,Barcelona,False,False,False,Practice 2,ALB,3
+2025,10,Montréal,False,False,True,Practice 2,RUS,2
+2025,10,Montréal,False,False,True,Practice 2,VER,2
+2025,10,Montréal,False,False,True,Practice 2,ANT,2
+2025,10,Montréal,False,False,True,Practice 2,PIA,2
+2025,10,Montréal,False,False,True,Practice 2,LEC,0
+2025,10,Montréal,False,False,True,Practice 2,HAM,2
+2025,10,Montréal,False,False,True,Practice 2,ALO,1
+2025,10,Montréal,False,False,True,Practice 2,HUL,3
+2025,10,Montréal,False,False,True,Practice 2,OCO,3
+2025,10,Montréal,False,False,True,Practice 2,SAI,2
+2025,10,Montréal,False,False,True,Practice 2,BEA,3
+2025,10,Montréal,False,False,True,Practice 2,TSU,0
+2025,10,Montréal,False,False,True,Practice 2,COL,2
+2025,10,Montréal,False,False,True,Practice 2,BOR,2
+2025,10,Montréal,False,False,True,Practice 2,GAS,2
+2025,10,Montréal,False,False,True,Practice 2,HAD,2
+2025,10,Montréal,False,False,True,Practice 2,STR,0
+2025,10,Montréal,False,False,True,Practice 2,NOR,2
+2025,10,Montréal,False,False,True,Practice 2,LAW,2
+2025,10,Montréal,False,False,True,Practice 2,ALB,2
+2025,11,Spielberg,False,False,False,Practice 2,NOR,2
+2025,11,Spielberg,False,False,False,Practice 2,PIA,2
+2025,11,Spielberg,False,False,False,Practice 2,LEC,2
+2025,11,Spielberg,False,False,False,Practice 2,HAM,2
+2025,11,Spielberg,False,False,False,Practice 2,RUS,2
+2025,11,Spielberg,False,False,False,Practice 2,LAW,2
+2025,11,Spielberg,False,False,False,Practice 2,ALO,3
+2025,11,Spielberg,False,False,False,Practice 2,BOR,2
+2025,11,Spielberg,False,False,False,Practice 2,HUL,2
+2025,11,Spielberg,False,False,False,Practice 2,OCO,2
+2025,11,Spielberg,False,False,False,Practice 2,BEA,0
+2025,11,Spielberg,False,False,False,Practice 2,HAD,2
+2025,11,Spielberg,False,False,False,Practice 2,GAS,2
+2025,11,Spielberg,False,False,False,Practice 2,STR,2
+2025,11,Spielberg,False,False,False,Practice 2,COL,2
+2025,11,Spielberg,False,False,False,Practice 2,TSU,2
+2025,11,Spielberg,False,False,False,Practice 2,ALB,2
+2025,11,Spielberg,False,False,False,Practice 2,VER,1
+2025,11,Spielberg,False,False,False,Practice 2,ANT,2
+2025,11,Spielberg,False,False,False,Practice 2,SAI,2
+2025,12,Silverstone,False,False,True,Practice 2,NOR,1
+2025,12,Silverstone,False,False,True,Practice 2,PIA,2
+2025,12,Silverstone,False,False,True,Practice 2,HUL,2
+2025,12,Silverstone,False,False,True,Practice 2,HAM,2
+2025,12,Silverstone,False,False,True,Practice 2,VER,2
+2025,12,Silverstone,False,False,True,Practice 2,GAS,0
+2025,12,Silverstone,False,False,True,Practice 2,STR,2
+2025,12,Silverstone,False,False,True,Practice 2,ALB,2
+2025,12,Silverstone,False,False,True,Practice 2,ALO,2
+2025,12,Silverstone,False,False,True,Practice 2,RUS,2
+2025,12,Silverstone,False,False,True,Practice 2,BEA,2
+2025,12,Silverstone,False,False,True,Practice 2,SAI,2
+2025,12,Silverstone,False,False,True,Practice 2,OCO,1
+2025,12,Silverstone,False,False,True,Practice 2,LEC,2
+2025,12,Silverstone,False,False,True,Practice 2,TSU,1
+2025,12,Silverstone,False,False,True,Practice 2,ANT,3
+2025,12,Silverstone,False,False,True,Practice 2,HAD,2
+2025,12,Silverstone,False,False,True,Practice 2,BOR,2
+2025,12,Silverstone,False,False,True,Practice 2,LAW,2
+2025,12,Silverstone,False,False,True,Practice 2,COL,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,PIA,0
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,NOR,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,LEC,0
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,VER,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,RUS,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,ALB,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,HAM,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,LAW,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,BOR,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,GAS,0
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,BEA,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,HUL,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,TSU,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,STR,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,OCO,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,ANT,2
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,ALO,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,SAI,1
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,COL,0
+2025,13,Spa-Francorchamps,True,False,True,Practice 1,HAD,0
+2025,14,Budapest,False,False,False,Practice 2,NOR,2
+2025,14,Budapest,False,False,False,Practice 2,PIA,0
+2025,14,Budapest,False,False,False,Practice 2,RUS,0
+2025,14,Budapest,False,False,False,Practice 2,LEC,2
+2025,14,Budapest,False,False,False,Practice 2,ALO,1
+2025,14,Budapest,False,False,False,Practice 2,BOR,1
+2025,14,Budapest,False,False,False,Practice 2,STR,2
+2025,14,Budapest,False,False,False,Practice 2,LAW,2
+2025,14,Budapest,False,False,False,Practice 2,VER,2
+2025,14,Budapest,False,False,False,Practice 2,ANT,2
+2025,14,Budapest,False,False,False,Practice 2,HAD,2
+2025,14,Budapest,False,False,False,Practice 2,HAM,0
+2025,14,Budapest,False,False,False,Practice 2,HUL,2
+2025,14,Budapest,False,False,False,Practice 2,SAI,2
+2025,14,Budapest,False,False,False,Practice 2,ALB,2
+2025,14,Budapest,False,False,False,Practice 2,OCO,2
+2025,14,Budapest,False,False,False,Practice 2,TSU,2
+2025,14,Budapest,False,False,False,Practice 2,COL,2
+2025,14,Budapest,False,False,False,Practice 2,GAS,2
+2025,14,Budapest,False,False,False,Practice 2,BEA,0
+2025,15,Zandvoort,False,False,False,Practice 2,PIA,2
+2025,15,Zandvoort,False,False,False,Practice 2,VER,1
+2025,15,Zandvoort,False,False,False,Practice 2,HAD,0
+2025,15,Zandvoort,False,False,False,Practice 2,RUS,2
+2025,15,Zandvoort,False,False,False,Practice 2,ALB,0
+2025,15,Zandvoort,False,False,False,Practice 2,BEA,2
+2025,15,Zandvoort,False,False,False,Practice 2,STR,0
+2025,15,Zandvoort,False,False,False,Practice 2,ALO,1
+2025,15,Zandvoort,False,False,False,Practice 2,TSU,0
+2025,15,Zandvoort,False,False,False,Practice 2,OCO,1
+2025,15,Zandvoort,False,False,False,Practice 2,COL,1
+2025,15,Zandvoort,False,False,False,Practice 2,LAW,1
+2025,15,Zandvoort,False,False,False,Practice 2,SAI,2
+2025,15,Zandvoort,False,False,False,Practice 2,HUL,0
+2025,15,Zandvoort,False,False,False,Practice 2,BOR,2
+2025,15,Zandvoort,False,False,False,Practice 2,ANT,0
+2025,15,Zandvoort,False,False,False,Practice 2,GAS,0
+2025,15,Zandvoort,False,False,False,Practice 2,NOR,2
+2025,15,Zandvoort,False,False,False,Practice 2,LEC,0
+2025,15,Zandvoort,False,False,False,Practice 2,HAM,1
+2025,16,Monza,False,False,False,Practice 2,VER,2
+2025,16,Monza,False,False,False,Practice 2,NOR,2
+2025,16,Monza,False,False,False,Practice 2,PIA,2
+2025,16,Monza,False,False,False,Practice 2,LEC,0
+2025,16,Monza,False,False,False,Practice 2,RUS,2
+2025,16,Monza,False,False,False,Practice 2,HAM,2
+2025,16,Monza,False,False,False,Practice 2,ALB,2
+2025,16,Monza,False,False,False,Practice 2,BOR,1
+2025,16,Monza,False,False,False,Practice 2,ANT,0
+2025,16,Monza,False,False,False,Practice 2,HAD,2
+2025,16,Monza,False,False,False,Practice 2,SAI,2
+2025,16,Monza,False,False,False,Practice 2,BEA,2
+2025,16,Monza,False,False,False,Practice 2,TSU,2
+2025,16,Monza,False,False,False,Practice 2,LAW,2
+2025,16,Monza,False,False,False,Practice 2,OCO,2
+2025,16,Monza,False,False,False,Practice 2,GAS,2
+2025,16,Monza,False,False,False,Practice 2,COL,2
+2025,16,Monza,False,False,False,Practice 2,STR,1
+2025,16,Monza,False,False,False,Practice 2,ALO,0
+2025,16,Monza,False,False,False,Practice 2,HUL,2
+2025,17,Baku,False,True,False,Practice 2,VER,0
+2025,17,Baku,False,True,False,Practice 2,RUS,0
+2025,17,Baku,False,True,False,Practice 2,SAI,1
+2025,17,Baku,False,True,False,Practice 2,ANT,0
+2025,17,Baku,False,True,False,Practice 2,LAW,1
+2025,17,Baku,False,True,False,Practice 2,TSU,0
+2025,17,Baku,False,True,False,Practice 2,NOR,0
+2025,17,Baku,False,True,False,Practice 2,HAM,0
+2025,17,Baku,False,True,False,Practice 2,LEC,0
+2025,17,Baku,False,True,False,Practice 2,HAD,1
+2025,17,Baku,False,True,False,Practice 2,BOR,0
+2025,17,Baku,False,True,False,Practice 2,BEA,1
+2025,17,Baku,False,True,False,Practice 2,ALB,1
+2025,17,Baku,False,True,False,Practice 2,OCO,1
+2025,17,Baku,False,True,False,Practice 2,ALO,0
+2025,17,Baku,False,True,False,Practice 2,HUL,1
+2025,17,Baku,False,True,False,Practice 2,STR,1
+2025,17,Baku,False,True,False,Practice 2,GAS,0
+2025,17,Baku,False,True,False,Practice 2,COL,1
+2025,17,Baku,False,True,False,Practice 2,PIA,0
+2025,18,Marina Bay,False,True,True,Practice 3,RUS,0
+2025,18,Marina Bay,False,True,True,Practice 3,VER,0
+2025,18,Marina Bay,False,True,True,Practice 3,NOR,1
+2025,18,Marina Bay,False,True,True,Practice 3,PIA,1
+2025,18,Marina Bay,False,True,True,Practice 3,ANT,0
+2025,18,Marina Bay,False,True,True,Practice 3,LEC,0
+2025,18,Marina Bay,False,True,True,Practice 3,ALO,1
+2025,18,Marina Bay,False,True,True,Practice 3,HAM,0
+2025,18,Marina Bay,False,True,True,Practice 3,BEA,1
+2025,18,Marina Bay,False,True,True,Practice 3,SAI,1
+2025,18,Marina Bay,False,True,True,Practice 3,HAD,0
+2025,18,Marina Bay,False,True,True,Practice 3,TSU,1
+2025,18,Marina Bay,False,True,True,Practice 3,STR,1
+2025,18,Marina Bay,False,True,True,Practice 3,ALB,1
+2025,18,Marina Bay,False,True,True,Practice 3,LAW,0
+2025,18,Marina Bay,False,True,True,Practice 3,COL,0
+2025,18,Marina Bay,False,True,True,Practice 3,BOR,0
+2025,18,Marina Bay,False,True,True,Practice 3,OCO,0
+2025,18,Marina Bay,False,True,True,Practice 3,GAS,0
+2025,18,Marina Bay,False,True,True,Practice 3,HUL,1
+2025,19,Austin,True,False,False,Practice 1,VER,3
+2025,19,Austin,True,False,False,Practice 1,NOR,1
+2025,19,Austin,True,False,False,Practice 1,LEC,1
+2025,19,Austin,True,False,False,Practice 1,HAM,1
+2025,19,Austin,True,False,False,Practice 1,PIA,0
+2025,19,Austin,True,False,False,Practice 1,RUS,2
+2025,19,Austin,True,False,False,Practice 1,TSU,1
+2025,19,Austin,True,False,False,Practice 1,HUL,1
+2025,19,Austin,True,False,False,Practice 1,BEA,2
+2025,19,Austin,True,False,False,Practice 1,ALO,1
+2025,19,Austin,True,False,False,Practice 1,LAW,1
+2025,19,Austin,True,False,False,Practice 1,STR,2
+2025,19,Austin,True,False,False,Practice 1,ANT,3
+2025,19,Austin,True,False,False,Practice 1,ALB,2
+2025,19,Austin,True,False,False,Practice 1,OCO,2
+2025,19,Austin,True,False,False,Practice 1,HAD,1
+2025,19,Austin,True,False,False,Practice 1,COL,2
+2025,19,Austin,True,False,False,Practice 1,BOR,1
+2025,19,Austin,True,False,False,Practice 1,GAS,2
+2025,19,Austin,True,False,False,Practice 1,SAI,0
+2025,20,Mexico City,False,False,False,Practice 2,NOR,2
+2025,20,Mexico City,False,False,False,Practice 2,LEC,2
+2025,20,Mexico City,False,False,False,Practice 2,VER,2
+2025,20,Mexico City,False,False,False,Practice 2,BEA,3
+2025,20,Mexico City,False,False,False,Practice 2,PIA,2
+2025,20,Mexico City,False,False,False,Practice 2,ANT,2
+2025,20,Mexico City,False,False,False,Practice 2,RUS,2
+2025,20,Mexico City,False,False,False,Practice 2,HAM,2
+2025,20,Mexico City,False,False,False,Practice 2,OCO,2
+2025,20,Mexico City,False,False,False,Practice 2,BOR,2
+2025,20,Mexico City,False,False,False,Practice 2,TSU,2
+2025,20,Mexico City,False,False,False,Practice 2,ALB,0
+2025,20,Mexico City,False,False,False,Practice 2,HAD,2
+2025,20,Mexico City,False,False,False,Practice 2,STR,2
+2025,20,Mexico City,False,False,False,Practice 2,GAS,2
+2025,20,Mexico City,False,False,False,Practice 2,COL,2
+2025,20,Mexico City,False,False,False,Practice 2,SAI,2
+2025,20,Mexico City,False,False,False,Practice 2,ALO,2
+2025,20,Mexico City,False,False,False,Practice 2,HUL,1
+2025,20,Mexico City,False,False,False,Practice 2,LAW,1
+2025,21,São Paulo,True,False,False,Practice 1,NOR,1
+2025,21,São Paulo,True,False,False,Practice 1,ANT,2
+2025,21,São Paulo,True,False,False,Practice 1,VER,3
+2025,21,São Paulo,True,False,False,Practice 1,RUS,2
+2025,21,São Paulo,True,False,False,Practice 1,PIA,1
+2025,21,São Paulo,True,False,False,Practice 1,BEA,0
+2025,21,São Paulo,True,False,False,Practice 1,LAW,2
+2025,21,São Paulo,True,False,False,Practice 1,HAD,1
+2025,21,São Paulo,True,False,False,Practice 1,HUL,2
+2025,21,São Paulo,True,False,False,Practice 1,GAS,0
+2025,21,São Paulo,True,False,False,Practice 1,ALB,0
+2025,21,São Paulo,True,False,False,Practice 1,OCO,2
+2025,21,São Paulo,True,False,False,Practice 1,SAI,1
+2025,21,São Paulo,True,False,False,Practice 1,ALO,1
+2025,21,São Paulo,True,False,False,Practice 1,COL,2
+2025,21,São Paulo,True,False,False,Practice 1,STR,2
+2025,21,São Paulo,True,False,False,Practice 1,TSU,0
+2025,21,São Paulo,True,False,False,Practice 1,HAM,2
+2025,21,São Paulo,True,False,False,Practice 1,LEC,1
+2025,21,São Paulo,True,False,False,Practice 1,BOR,3
+2025,22,Las Vegas,False,True,False,Practice 3,VER,2
+2025,22,Las Vegas,False,True,False,Practice 3,RUS,1
+2025,22,Las Vegas,False,True,False,Practice 3,ANT,2
+2025,22,Las Vegas,False,True,False,Practice 3,LEC,1
+2025,22,Las Vegas,False,True,False,Practice 3,SAI,0
+2025,22,Las Vegas,False,True,False,Practice 3,HAD,0
+2025,22,Las Vegas,False,True,False,Practice 3,HUL,0
+2025,22,Las Vegas,False,True,False,Practice 3,HAM,0
+2025,22,Las Vegas,False,True,False,Practice 3,OCO,1
+2025,22,Las Vegas,False,True,False,Practice 3,BEA,0
+2025,22,Las Vegas,False,True,False,Practice 3,ALO,0
+2025,22,Las Vegas,False,True,False,Practice 3,TSU,0
+2025,22,Las Vegas,False,True,False,Practice 3,GAS,1
+2025,22,Las Vegas,False,True,False,Practice 3,LAW,0
+2025,22,Las Vegas,False,True,False,Practice 3,COL,1
+2025,22,Las Vegas,False,True,False,Practice 3,ALB,0
+2025,22,Las Vegas,False,True,False,Practice 3,BOR,0
+2025,22,Las Vegas,False,True,False,Practice 3,STR,0
+2025,22,Las Vegas,False,True,False,Practice 3,NOR,0
+2025,22,Las Vegas,False,True,False,Practice 3,PIA,1
+2025,23,Lusail,True,False,False,Practice 1,VER,2
+2025,23,Lusail,True,False,False,Practice 1,PIA,2
+2025,23,Lusail,True,False,False,Practice 1,SAI,1
+2025,23,Lusail,True,False,False,Practice 1,NOR,2
+2025,23,Lusail,True,False,False,Practice 1,ANT,3
+2025,23,Lusail,True,False,False,Practice 1,RUS,3
+2025,23,Lusail,True,False,False,Practice 1,ALO,1
+2025,23,Lusail,True,False,False,Practice 1,LEC,1
+2025,23,Lusail,True,False,False,Practice 1,LAW,2
+2025,23,Lusail,True,False,False,Practice 1,TSU,2
+2025,23,Lusail,True,False,False,Practice 1,ALB,1
+2025,23,Lusail,True,False,False,Practice 1,HAM,1
+2025,23,Lusail,True,False,False,Practice 1,BOR,0
+2025,23,Lusail,True,False,False,Practice 1,COL,2
+2025,23,Lusail,True,False,False,Practice 1,OCO,3
+2025,23,Lusail,True,False,False,Practice 1,GAS,1
+2025,23,Lusail,True,False,False,Practice 1,STR,1
+2025,23,Lusail,True,False,False,Practice 1,HAD,0
+2025,23,Lusail,True,False,False,Practice 1,BEA,2
+2025,23,Lusail,True,False,False,Practice 1,HUL,0
+2025,24,Yas Island,False,False,False,Practice 2,VER,2
+2025,24,Yas Island,False,False,False,Practice 2,PIA,1
+2025,24,Yas Island,False,False,False,Practice 2,NOR,2
+2025,24,Yas Island,False,False,False,Practice 2,LEC,2
+2025,24,Yas Island,False,False,False,Practice 2,RUS,2
+2025,24,Yas Island,False,False,False,Practice 2,ALO,1
+2025,24,Yas Island,False,False,False,Practice 2,OCO,1
+2025,24,Yas Island,False,False,False,Practice 2,HAM,0
+2025,24,Yas Island,False,False,False,Practice 2,HUL,1
+2025,24,Yas Island,False,False,False,Practice 2,STR,1
+2025,24,Yas Island,False,False,False,Practice 2,BOR,3
+2025,24,Yas Island,False,False,False,Practice 2,BEA,2
+2025,24,Yas Island,False,False,False,Practice 2,SAI,2
+2025,24,Yas Island,False,False,False,Practice 2,TSU,2
+2025,24,Yas Island,False,False,False,Practice 2,ANT,2
+2025,24,Yas Island,False,False,False,Practice 2,ALB,3
+2025,24,Yas Island,False,False,False,Practice 2,HAD,3
+2025,24,Yas Island,False,False,False,Practice 2,LAW,2
+2025,24,Yas Island,False,False,False,Practice 2,GAS,2
+2025,24,Yas Island,False,False,False,Practice 2,COL,2
+2026,1,Melbourne,False,False,False,Practice 2,RUS,2
+2026,1,Melbourne,False,False,False,Practice 2,ANT,2
+2026,1,Melbourne,False,False,False,Practice 2,LEC,0
+2026,1,Melbourne,False,False,False,Practice 2,HAM,1
+2026,1,Melbourne,False,False,False,Practice 2,NOR,1
+2026,1,Melbourne,False,False,False,Practice 2,VER,0
+2026,1,Melbourne,False,False,False,Practice 2,BEA,3
+2026,1,Melbourne,False,False,False,Practice 2,LIN,2
+2026,1,Melbourne,False,False,False,Practice 2,BOR,1
+2026,1,Melbourne,False,False,False,Practice 2,GAS,1
+2026,1,Melbourne,False,False,False,Practice 2,OCO,1
+2026,1,Melbourne,False,False,False,Practice 2,ALB,1
+2026,1,Melbourne,False,False,False,Practice 2,LAW,2
+2026,1,Melbourne,False,False,False,Practice 2,COL,2
+2026,1,Melbourne,False,False,False,Practice 2,SAI,0
+2026,1,Melbourne,False,False,False,Practice 2,PER,0
+2026,1,Melbourne,False,False,False,Practice 2,STR,0
+2026,1,Melbourne,False,False,False,Practice 2,ALO,0
+2026,1,Melbourne,False,False,False,Practice 2,BOT,2
+2026,1,Melbourne,False,False,False,Practice 2,HAD,2
+2026,1,Melbourne,False,False,False,Practice 2,PIA,1
+2026,1,Melbourne,False,False,False,Practice 2,HUL,3
+2026,2,Shanghai,True,False,False,Practice 1,ANT,2
+2026,2,Shanghai,True,False,False,Practice 1,RUS,2
+2026,2,Shanghai,True,False,False,Practice 1,HAM,0
+2026,2,Shanghai,True,False,False,Practice 1,LEC,0
+2026,2,Shanghai,True,False,False,Practice 1,BEA,1
+2026,2,Shanghai,True,False,False,Practice 1,GAS,1
+2026,2,Shanghai,True,False,False,Practice 1,LAW,2
+2026,2,Shanghai,True,False,False,Practice 1,HAD,2
+2026,2,Shanghai,True,False,False,Practice 1,SAI,0
+2026,2,Shanghai,True,False,False,Practice 1,COL,1
+2026,2,Shanghai,True,False,False,Practice 1,HUL,0
+2026,2,Shanghai,True,False,False,Practice 1,LIN,0
+2026,2,Shanghai,True,False,False,Practice 1,BOT,1
+2026,2,Shanghai,True,False,False,Practice 1,OCO,1
+2026,2,Shanghai,True,False,False,Practice 1,PER,0
+2026,2,Shanghai,True,False,False,Practice 1,VER,2
+2026,2,Shanghai,True,False,False,Practice 1,ALO,0
+2026,2,Shanghai,True,False,False,Practice 1,STR,0
+2026,2,Shanghai,True,False,False,Practice 1,PIA,1
+2026,2,Shanghai,True,False,False,Practice 1,NOR,1
+2026,2,Shanghai,True,False,False,Practice 1,BOR,1
+2026,2,Shanghai,True,False,False,Practice 1,ALB,1
+2026,3,Suzuka,False,False,False,Practice 2,ANT,2
+2026,3,Suzuka,False,False,False,Practice 2,PIA,2
+2026,3,Suzuka,False,False,False,Practice 2,LEC,2
+2026,3,Suzuka,False,False,False,Practice 2,RUS,2
+2026,3,Suzuka,False,False,False,Practice 2,NOR,0
+2026,3,Suzuka,False,False,False,Practice 2,HAM,0
+2026,3,Suzuka,False,False,False,Practice 2,GAS,2
+2026,3,Suzuka,False,False,False,Practice 2,VER,0
+2026,3,Suzuka,False,False,False,Practice 2,LAW,2
+2026,3,Suzuka,False,False,False,Practice 2,OCO,2
+2026,3,Suzuka,False,False,False,Practice 2,HUL,1
+2026,3,Suzuka,False,False,False,Practice 2,HAD,0
+2026,3,Suzuka,False,False,False,Practice 2,BOR,0
+2026,3,Suzuka,False,False,False,Practice 2,LIN,0
+2026,3,Suzuka,False,False,False,Practice 2,SAI,2
+2026,3,Suzuka,False,False,False,Practice 2,COL,2
+2026,3,Suzuka,False,False,False,Practice 2,PER,1
+2026,3,Suzuka,False,False,False,Practice 2,ALO,1
+2026,3,Suzuka,False,False,False,Practice 2,BOT,2
+2026,3,Suzuka,False,False,False,Practice 2,ALB,3
+2026,3,Suzuka,False,False,False,Practice 2,STR,0
+2026,3,Suzuka,False,False,False,Practice 2,BEA,2
+2026,4,Miami,True,True,True,Practice 1,ANT,2
+2026,4,Miami,True,True,True,Practice 1,NOR,2
+2026,4,Miami,True,True,True,Practice 1,PIA,2
+2026,4,Miami,True,True,True,Practice 1,RUS,2
+2026,4,Miami,True,True,True,Practice 1,VER,2
+2026,4,Miami,True,True,True,Practice 1,HAM,3
+2026,4,Miami,True,True,True,Practice 1,COL,3
+2026,4,Miami,True,True,True,Practice 1,LEC,2
+2026,4,Miami,True,True,True,Practice 1,SAI,2
+2026,4,Miami,True,True,True,Practice 1,ALB,3
+2026,4,Miami,True,True,True,Practice 1,BEA,3
+2026,4,Miami,True,True,True,Practice 1,BOR,0
+2026,4,Miami,True,True,True,Practice 1,OCO,3
+2026,4,Miami,True,True,True,Practice 1,LIN,2
+2026,4,Miami,True,True,True,Practice 1,ALO,0
+2026,4,Miami,True,True,True,Practice 1,PER,2
+2026,4,Miami,True,True,True,Practice 1,STR,1
+2026,4,Miami,True,True,True,Practice 1,BOT,2
+2026,4,Miami,True,True,True,Practice 1,HUL,2
+2026,4,Miami,True,True,True,Practice 1,LAW,2
+2026,4,Miami,True,True,True,Practice 1,GAS,0
+2026,4,Miami,True,True,True,Practice 1,HAD,2
+2026,5,Montréal,True,False,False,Practice 1,ANT,1
+2026,5,Montréal,True,False,False,Practice 1,HAM,2
+2026,5,Montréal,True,False,False,Practice 1,VER,2
+2026,5,Montréal,True,False,False,Practice 1,LEC,0
+2026,5,Montréal,True,False,False,Practice 1,HAD,2
+2026,5,Montréal,True,False,False,Practice 1,COL,0
+2026,5,Montréal,True,False,False,Practice 1,LAW,0
+2026,5,Montréal,True,False,False,Practice 1,GAS,0
+2026,5,Montréal,True,False,False,Practice 1,SAI,2
+2026,5,Montréal,True,False,False,Practice 1,BEA,1
+2026,5,Montréal,True,False,False,Practice 1,PIA,2
+2026,5,Montréal,True,False,False,Practice 1,HUL,0
+2026,5,Montréal,True,False,False,Practice 1,BOR,1
+2026,5,Montréal,True,False,False,Practice 1,OCO,2
+2026,5,Montréal,True,False,False,Practice 1,STR,1
+2026,5,Montréal,True,False,False,Practice 1,BOT,1
+2026,5,Montréal,True,False,False,Practice 1,PER,2
+2026,5,Montréal,True,False,False,Practice 1,NOR,0
+2026,5,Montréal,True,False,False,Practice 1,RUS,2
+2026,5,Montréal,True,False,False,Practice 1,ALO,0
+2026,5,Montréal,True,False,False,Practice 1,ALB,0
+2026,5,Montréal,True,False,False,Practice 1,LIN,1
+2026,6,Monaco,False,True,False,Practice 2,ANT,0
+2026,6,Monaco,False,True,False,Practice 2,HAM,0
+2026,6,Monaco,False,True,False,Practice 2,GAS,1
+2026,6,Monaco,False,True,False,Practice 2,HAD,0
+2026,6,Monaco,False,True,False,Practice 2,PIA,0
+2026,6,Monaco,False,True,False,Practice 2,LAW,0
+2026,6,Monaco,False,True,False,Practice 2,LIN,0
+2026,6,Monaco,False,True,False,Practice 2,ALB,0
+2026,6,Monaco,False,True,False,Practice 2,OCO,0
+2026,6,Monaco,False,True,False,Practice 2,ALO,0
+2026,6,Monaco,False,True,False,Practice 2,BOR,0
+2026,6,Monaco,False,True,False,Practice 2,RUS,0
+2026,6,Monaco,False,True,False,Practice 2,HUL,2
+2026,6,Monaco,False,True,False,Practice 2,COL,1
+2026,6,Monaco,False,True,False,Practice 2,PER,1
+2026,6,Monaco,False,True,False,Practice 2,SAI,0
+2026,6,Monaco,False,True,False,Practice 2,LEC,0
+2026,6,Monaco,False,True,False,Practice 2,STR,2
+2026,6,Monaco,False,True,False,Practice 2,NOR,0
+2026,6,Monaco,False,True,False,Practice 2,BEA,1
+2026,6,Monaco,False,True,False,Practice 2,BOT,1
+2026,6,Monaco,False,True,False,Practice 2,VER,2
+2026,7,Barcelona,False,False,False,Practice 2,HAM,1
+2026,7,Barcelona,False,False,False,Practice 2,RUS,3
+2026,7,Barcelona,False,False,False,Practice 2,NOR,2
+2026,7,Barcelona,False,False,False,Practice 2,VER,3
+2026,7,Barcelona,False,False,False,Practice 2,PIA,2
+2026,7,Barcelona,False,False,False,Practice 2,HAD,3
+2026,7,Barcelona,False,False,False,Practice 2,GAS,0
+2026,7,Barcelona,False,False,False,Practice 2,LAW,0
+2026,7,Barcelona,False,False,False,Practice 2,LIN,2
+2026,7,Barcelona,False,False,False,Practice 2,COL,2
+2026,7,Barcelona,False,False,False,Practice 2,BOR,2
+2026,7,Barcelona,False,False,False,Practice 2,SAI,1
+2026,7,Barcelona,False,False,False,Practice 2,OCO,0
+2026,7,Barcelona,False,False,False,Practice 2,PER,0
+2026,7,Barcelona,False,False,False,Practice 2,LEC,2
+2026,7,Barcelona,False,False,False,Practice 2,ANT,0
+2026,7,Barcelona,False,False,False,Practice 2,BEA,2
+2026,7,Barcelona,False,False,False,Practice 2,ALB,0
+2026,7,Barcelona,False,False,False,Practice 2,ALO,0
+2026,7,Barcelona,False,False,False,Practice 2,HUL,2
+2026,7,Barcelona,False,False,False,Practice 2,BOT,0
+2026,7,Barcelona,False,False,False,Practice 2,STR,0
+2026,8,Spielberg,False,False,False,Practice 2,RUS,1
+2026,8,Spielberg,False,False,False,Practice 2,VER,2
+2026,8,Spielberg,False,False,False,Practice 2,ANT,1
+2026,8,Spielberg,False,False,False,Practice 2,PIA,2
+2026,8,Spielberg,False,False,False,Practice 2,HAM,1
+2026,8,Spielberg,False,False,False,Practice 2,HAD,0
+2026,8,Spielberg,False,False,False,Practice 2,NOR,2
+2026,8,Spielberg,False,False,False,Practice 2,LEC,2
+2026,8,Spielberg,False,False,False,Practice 2,LAW,2
+2026,8,Spielberg,False,False,False,Practice 2,LIN,2
+2026,8,Spielberg,False,False,False,Practice 2,BOR,2
+2026,8,Spielberg,False,False,False,Practice 2,HUL,2
+2026,8,Spielberg,False,False,False,Practice 2,GAS,2
+2026,8,Spielberg,False,False,False,Practice 2,BEA,2
+2026,8,Spielberg,False,False,False,Practice 2,COL,2
+2026,8,Spielberg,False,False,False,Practice 2,OCO,2
+2026,8,Spielberg,False,False,False,Practice 2,ALB,2
+2026,8,Spielberg,False,False,False,Practice 2,ALO,2
+2026,8,Spielberg,False,False,False,Practice 2,STR,2
+2026,8,Spielberg,False,False,False,Practice 2,SAI,2
+2026,8,Spielberg,False,False,False,Practice 2,PER,0
+2026,8,Spielberg,False,False,False,Practice 2,BOT,0
+2026,9,Silverstone,True,False,False,Practice 1,LEC,2
+2026,9,Silverstone,True,False,False,Practice 1,RUS,2
+2026,9,Silverstone,True,False,False,Practice 1,HAM,1
+2026,9,Silverstone,True,False,False,Practice 1,NOR,1
+2026,9,Silverstone,True,False,False,Practice 1,HAD,2
+2026,9,Silverstone,True,False,False,Practice 1,LAW,1
+2026,9,Silverstone,True,False,False,Practice 1,LIN,2
+2026,9,Silverstone,True,False,False,Practice 1,BOR,1
+2026,9,Silverstone,True,False,False,Practice 1,COL,1
+2026,9,Silverstone,True,False,False,Practice 1,GAS,1
+2026,9,Silverstone,True,False,False,Practice 1,PIA,0
+2026,9,Silverstone,True,False,False,Practice 1,BEA,2
+2026,9,Silverstone,True,False,False,Practice 1,OCO,1
+2026,9,Silverstone,True,False,False,Practice 1,PER,2
+2026,9,Silverstone,True,False,False,Practice 1,ANT,0
+2026,9,Silverstone,True,False,False,Practice 1,BOT,2
+2026,9,Silverstone,True,False,False,Practice 1,SAI,1
+2026,9,Silverstone,True,False,False,Practice 1,ALO,1
+2026,9,Silverstone,True,False,False,Practice 1,STR,0
+2026,9,Silverstone,True,False,False,Practice 1,VER,2
+2026,9,Silverstone,True,False,False,Practice 1,ALB,1
+2026,9,Silverstone,True,False,False,Practice 1,HUL,2

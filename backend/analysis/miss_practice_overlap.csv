@@ -1,0 +1,24 @@
+season,round,winner,taxonomy,event,sprint,status,n_covered,w_delta_ms,w_prank,w_surprise_proxy,w_qsurp
+2023,12,VER,race_pace,Belgian,True,NO_DATA(KeyError),,,,,
+2023,18,VER,race_pace,United States,True,OK,18.0,1815.0,15/18,-14.0,-2.8
+2024,3,SAI,reliability,Australian,False,WINNER_NOT_COVERED,16.0,,,,4.4
+2024,6,NOR,strategy,Miami,True,OK,15.0,-948.0,1/15,2.0,-0.2
+2024,11,RUS,unpredictable,Austrian,True,OK,15.0,-57.0,6/15,-3.0,1.6
+2024,12,HAM,reliability,British,False,OK,16.0,-695.0,6/16,-2.0,4.0
+2024,14,HAM,unpredictable,Belgian,False,OK,19.0,-173.0,5/19,-2.0,0.4
+2024,16,LEC,strategy,Italian,False,OK,13.0,0.0,7/13,-2.0,2.2
+2024,19,LEC,strategy,United States,True,OK,16.0,-1220.0,1/16,3.0,0.4
+2024,21,VER,weather,São Paulo,True,OK,16.0,741.0,14/16,-13.0,-8.2
+2024,23,VER,race_pace,Qatar,True,OK,16.0,1814.0,16/16,-15.0,3.6
+2025,3,VER,quali_overperf,Japanese,False,NO_DATA(KeyError),,,,,
+2025,5,PIA,unpredictable,Saudi Arabian,False,NO_SIMS,,,,,-0.2
+2025,6,PIA,weather,Miami,True,OK,15.0,-1232.0,4/15,-3.0,-2.2
+2025,7,VER,unpredictable,Emilia Romagna,False,WINNER_NOT_COVERED,15.0,,,,0.8
+2025,10,RUS,quali_overperf,Canadian,False,OK,14.0,-234.0,4/14,1.0,4.8
+2025,12,NOR,unpredictable,British,False,OK,17.0,-824.0,5/17,-3.0,0.0
+2025,13,PIA,weather,Belgian,True,WINNER_NOT_COVERED,15.0,,,,0.4
+2025,22,VER,unpredictable,Las Vegas,False,OK,8.0,-424.0,3/8,-2.0,3.0
+2025,23,VER,strategy,Qatar,True,OK,17.0,621.0,15/17,-14.0,2.2
+2026,5,ANT,reliability,Canadian,True,OK,10.0,-827.0,3/10,-2.0,1.8
+2026,7,HAM,race_pace,Barcelona,False,OK,13.0,-475.0,4/13,-1.0,2.6
+2026,9,LEC,unpredictable,British,True,OK,19.0,-2372.0,1/19,1.0,3.4
