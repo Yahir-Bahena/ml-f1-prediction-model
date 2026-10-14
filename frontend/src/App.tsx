@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import Nav from './components/Nav'
+import SnapshotNote from './components/SnapshotNote'
 import Dashboard from './pages/Dashboard'
 import DriverDetail from './pages/DriverDetail'
 import Drivers from './pages/Drivers'
@@ -39,6 +40,7 @@ export default function App() {
         <Route path="/results" element={<Page><Results /></Page>} />
         <Route path="/results/:season/:round" element={<Page><ResultDetail /></Page>} />
       </Routes>
+      <SnapshotNote />
     </div>
   )
 }

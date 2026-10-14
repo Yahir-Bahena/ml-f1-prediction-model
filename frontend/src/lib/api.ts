@@ -1,7 +1,12 @@
-const BASE = '/api'
+/* Production builds read the frozen JSON in public/data (see
+   scripts/export-snapshot.mjs); dev talks to the live API via the Vite proxy. */
+const STATIC = import.meta.env.VITE_STATIC === 'true'
+const BASE = STATIC ? '/data' : '/api'
 
 async function get<T>(path: string): Promise<T> {
-  const res = await fetch(BASE + path)
+  // static files can't take a query string, so /schedule?season=… collapses
+  const url = STATIC ? path.split('?')[0] + '.json' : path
+  const res = await fetch(BASE + url)
   if (!res.ok) {
     let detail = res.statusText
     try {
